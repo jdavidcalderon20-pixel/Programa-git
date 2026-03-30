@@ -1,0 +1,185 @@
+.area-score-container {
+  max-width: 620px;
+  margin: 0 auto;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.area-score-header {
+  text-align: center;
+  padding: 2.5rem 2rem;
+  background: var(--gradient-pro);
+  border-radius: var(--radius-pro);
+  box-shadow: var(--shadow-pro), inset 0 1px 0 rgba(255,255,255,0.05);
+  border: 1px solid var(--border-subtle);
+  border-top-width: 4px; border-top-color: var(--area-color, #6366f1);
+}
+
+.area-score-icon {
+  font-size: 3.5rem;
+  margin-bottom: 0.5rem;
+  animation: pop 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+}
+
+@keyframes pop {
+  from { transform: scale(0); opacity: 0; }
+  to { transform: scale(1); opacity: 1; }
+}
+
+.area-score-header h1 {
+  font-size: 1.8rem;
+  color: var(--text-primary);
+  margin-bottom: 0.25rem;
+}
+
+.area-score-subtitle {
+  color: var(--text-secondary);
+  font-size: 0.95rem;
+}
+
+/* Score Gauge */
+.area-score-main {
+  padding: 2.5rem 2rem;
+  background: var(--bg-card);
+  border-radius: var(--radius-pro);
+  border: 1px solid var(--border-subtle);
+  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+  text-align: center;
+}
+
+.score-gauge-wrapper {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 1.25rem;
+}
+
+.score-gauge {
+  width: 160px;
+  height: 160px;
+  transform: rotate(-90deg);
+}
+
+.gauge-bg {
+  fill: none;
+  stroke: rgba(255,255,255,0.08);
+  stroke-width: 10;
+}
+
+.gauge-fill {
+  fill: none;
+  stroke-width: 10;
+  stroke-linecap: round;
+  transition: stroke-dashoffset 1s ease;
+  animation: gauge-draw 1.2s ease-out forwards;
+}
+
+@keyframes gauge-draw {
+  from {
+    stroke-dashoffset: calc(2 * 3.14159 * 52);
+  }
+  to {
+    stroke-dashoffset: var(--dash-offset);
+  }
+}
+
+.score-gauge text {
+  transform: rotate(90deg);
+  transform-origin: center;
+  text-anchor: middle;
+  dominant-baseline: middle;
+  fill: var(--text-primary);
+}
+
+.gauge-pct { font-size: 22px; font-weight: 700; }
+.gauge-label { font-size: 12px; fill: var(--text-secondary); }
+
+/* Performance Badge */
+.perf-badge {
+  display: inline-block;
+  padding: 6px 20px;
+  border-radius: 20px;
+  font-size: 1rem;
+  font-weight: 700;
+  margin-bottom: 1.5rem;
+}
+
+.perf-excellent { background: rgba(16,185,129,0.2); color: #34d399; border: 1px solid rgba(16,185,129,0.4); }
+.perf-good { background: rgba(99,102,241,0.2); color: #818cf8; border: 1px solid rgba(99,102,241,0.4); }
+.perf-regular { background: rgba(245,158,11,0.2); color: #fbbf24; border: 1px solid rgba(245,158,11,0.4); }
+.perf-low { background: rgba(239,68,68,0.2); color: #f87171; border: 1px solid rgba(239,68,68,0.4); }
+
+/* Stats */
+.score-stats {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  margin-bottom: 1.25rem;
+  flex-wrap: wrap;
+}
+
+.stat-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0.75rem 1.25rem;
+  border-radius: var(--radius-pro);
+  border: 1px solid var(--border-subtle);
+  min-width: 90px;
+}
+
+.stat-correct { background: rgba(16,185,129,0.1); }
+.stat-wrong { background: rgba(239,68,68,0.1); }
+.stat-total { background: rgba(99,102,241,0.1); }
+
+.stat-num {
+  font-size: 1.8rem;
+  font-weight: 700;
+  color: var(--text-primary);
+}
+
+.stat-label {
+  font-size: 0.8rem;
+  color: var(--text-secondary);
+}
+
+.perf-message {
+  color: var(--text-secondary);
+  font-size: 0.95rem;
+  font-style: italic;
+  border-top: 1px solid rgba(255,255,255,0.08);
+  padding-top: 1rem;
+  margin-top: 0.5rem;
+}
+
+/* Actions */
+.area-score-actions {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+  align-items: center;
+}
+
+.btn-lg {
+  width: 100%;
+  max-width: 400px;
+  padding: 1rem;
+  font-size: 1.05rem;
+}
+
+.btn-review {
+  background: transparent;
+  border: 1px solid rgba(255,255,255,0.2);
+  color: var(--text-secondary);
+  padding: 0.65rem 1.5rem;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 0.9rem;
+  transition: background 0.2s, color 0.2s;
+}
+
+.btn-review:hover {
+  background: rgba(255,255,255,0.08);
+  color: var(--text-primary);
+}

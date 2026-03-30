@@ -1,0 +1,52 @@
+/* New Dashboard (Home) styles appended */
+
+.home-welcome {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1.5rem 2rem;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.hw-left h1 { font-size: 1.6rem; margin: 0; }
+.hw-left p { color: var(--text-muted); margin: 0.2rem 0 0; }
+
+.hw-right { min-width: 180px; }
+.hw-level { font-size: 0.9rem; font-weight: 600; margin-bottom: 0.4rem; }
+.hw-xp-bar { height: 8px; background: rgba(255,255,255,0.08); border-radius: 4px; overflow: hidden; margin-bottom: 0.3rem; }
+.hw-xp-fill { height: 100%; border-radius: 4px; transition: width 0.8s ease; }
+.hw-xp-text { font-size: 0.78rem; color: var(--text-muted); margin: 0; }
+
+.home-quick-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.home-action-card {
+  padding: 1.5rem 1.2rem;
+  cursor: pointer;
+  transition: transform 0.2s, box-shadow 0.2s;
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+}
+.home-action-card:hover { transform: translateY(-4px); box-shadow: 0 8px 30px rgba(0,0,0,0.3); }
+.hac-icon { font-size: 2rem; margin-bottom: 0.2rem; }
+.home-action-card h3 { margin: 0; font-size: 1rem; }
+.home-action-card p { margin: 0; font-size: 0.8rem; color: var(--text-muted); }
+
+.home-simulacro-cta {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 2rem;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+.hsc-text h2 { margin: 0 0 0.3rem; font-size: 1.4rem; }
+.hsc-text p { margin: 0; color: var(--text-muted); font-size: 0.9rem; max-width: 500px; }
+.hsc-btn { flex-shrink: 0; font-size: 1rem; padding: 0.85rem 1.5rem; }

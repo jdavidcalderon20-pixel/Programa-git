@@ -1,0 +1,522 @@
+[
+  {
+    "id": "mat_pro_1",
+    "icon": "📐",
+    "text": "Una empresa de mensajería cobra $5.000 por el primer kilogramo de peso de un paquete y $2.500 por cada kilogramo adicional o fracción. Si una persona pagó $17.500 por el envío de un paquete, ¿cuál de las siguientes ecuaciones permite calcular el peso x (en kg) del paquete?",
+    "options": [
+      "5.000 + 2.500(x - 1) = 17.500",
+      "5.000x + 2.500 = 17.500",
+      "2.500x + 5.000 = 17.500",
+      "5.000 + 2.500x = 17.500"
+    ],
+    "correct": 0,
+    "explanation": "Paso 1: Análisis del Enunciado\nSe nos da un costo fijo de $5.000 para el primer kilogramo y un costo variable de $2.500 para cada kg adicional o fracción. El costo total pagado es de $17.500. Se busca la ecuación que representa el peso total **x**.\n\nPaso 2: Procedimiento/Lógica\n1. El primer kg cuesta $5.000 (ya incluido en x).\n2. El peso restante es (x - 1) kilogramos.\n3. El costo de este peso restante es 2.500 × (x - 1).\n4. La suma de ambos componentes debe ser igual al total: 5.000 + 2.500(x - 1) = 17.500.\n\nPaso 3: Conclusión\nLa opción correcta modela esta relación sumando el cargo base y el cargo por los kilogramos adicionales."
+  },
+  {
+    "id": "mat_pro_2",
+    "icon": "📊",
+    "text": "En una bolsa hay 4 bolas rojas, 3 verdes y 5 azules. Si se extraen dos bolas al azar, una tras otra y sin reposición, ¿cuál es la probabilidad de que ambas sean rojas?",
+    "options": [
+      "1/11",
+      "1/9",
+      "4/33",
+      "1/6"
+    ],
+    "correct": 0,
+    "explanation": "Paso 1: Análisis del Enunciado\nTenemos 12 bolas en total (4 rojas, 3 verdes, 5 azules). Se extraen dos bolas **sin reposición** y queremos hallar la probabilidad de que ambas sean rojas.\n\nPaso 2: Procedimiento/Lógica\n1. Probabilidad de que la primera sea roja: P(R1) = 4/12 = 1/3.\n2. Al ser sin reposición, ahora quedan 11 bolas en total y solo 3 son rojas.\n3. Probabilidad de que la segunda sea roja dado que la primera fue roja: P(R2|R1) = 3/11.\n4. Probabilidad conjunta: (1/3) × (3/11) = 3/33.\n\nPaso 3: Conclusión\nSimplificando 3/33 obtenemos 1/11, que es la probabilidad final."
+  },
+  {
+    "id": "mat_pro_3",
+    "icon": "🔢",
+    "text": "Considere la función cuadrática f(x) = x² - 6x + 5. ¿Cuál es el valor mínimo que alcanza esta función?",
+    "options": [
+      "-4",
+      "5",
+      "3",
+      "0"
+    ],
+    "correct": 0,
+    "explanation": "Paso 1: Análisis del Enunciado\nSe nos presenta la función cuadrática f(x) = x² - 6x + 5 y se nos pide encontrar su valor mínimo.\n\nPaso 2: Procedimiento/Lógica\n1. En una parábola positiva (como ésta, donde a=1), el valor mínimo ocurre en el **vértice**.\n2. Calculamos la coordenada x del vértice con x = -b / (2a):\n   x = -(-6) / (2 × 1) = 6 / 2 = 3.\n3. Ahora sustituimos x=3 en la función original para hallar f(3):\n   f(3) = (3)² - 6(3) + 5 = 9 - 18 + 5 = -4.\n\nPaso 3: Conclusión\nEl valor mínimo alcanzado por la función es -4."
+  },
+  {
+    "id": "mat_pro_4",
+    "icon": "📐",
+    "text": "Un cilindro tiene una altura de 10 cm y un radio de base de 3 cm. Si se duplica el radio de la base y se mantiene la misma altura, el volumen del nuevo cilindro será:",
+    "options": [
+      "El cuádruple del volumen original",
+      "El doble del volumen original",
+      "El triple del volumen original",
+      "Ocho veces el volumen original"
+    ],
+    "correct": 0,
+    "explanation": "Paso 1: Análisis del Enunciado\nUn cilindro original tiene radio **r** y altura **h**. Se nos pregunta qué sucede con el volumen si el radio se duplica (2r).\n\nPaso 2: Procedimiento/Lógica\n1. La fórmula del volumen de un cilindro es: V = π × r² × h.\n2. Sustituimos el nuevo radio en la fórmula: V_nuevo = π × (2r)² × h.\n3. Aplicamos la potencia: V_nuevo = π × 4r² × h.\n4. Reorganizando: V_nuevo = 4 × (π × r² × h).\n\nPaso 3: Conclusión\nEl volumen del nuevo cilindro es exactamente **4 veces** (cuádruple) el volumen original."
+  },
+  {
+    "id": "mat_pro_5",
+    "icon": "📊",
+    "text": "La media aritmética de cinco números es 12. Si se agrega un sexto número, la nueva media es 14. ¿Cuál es el valor del sexto número?",
+    "options": [
+      "24",
+      "20",
+      "22",
+      "26"
+    ],
+    "correct": 0,
+    "explanation": "Suma de 5 números = 12 × 5 = 60. Suma de 6 números = 14 × 6 = 84. El sexto número es 84 - 60 = 24."
+  },
+  {
+    "id": "mat_pro_6",
+    "icon": "🔢",
+    "text": "¿Cuál es el valor de x en la ecuación log₂ (x + 3) = 5?",
+    "options": [
+      "29",
+      "32",
+      "25",
+      "13"
+    ],
+    "correct": 0,
+    "explanation": "Pasando a forma exponencial: x + 3 = 2⁵. x + 3 = 32. x = 29."
+  },
+  {
+    "id": "mat_pro_7",
+    "icon": "📐",
+    "text": "En un triángulo rectángulo, la hipotenusa mide 13 cm y uno de los catetos mide 5 cm. ¿Cuál es el área del triángulo?",
+    "options": [
+      "30 cm²",
+      "60 cm²",
+      "32.5 cm²",
+      "15 cm²"
+    ],
+    "correct": 0,
+    "explanation": "Por Pitágoras, el otro cateto es √(13² - 5²) = √(169 - 25) = √144 = 12 cm. Área = (base × altura)/2 = (5 × 12)/2 = 30 cm²."
+  },
+  {
+    "id": "mat_pro_8",
+    "icon": "📊",
+    "text": "Si sen(θ) = 3/5 y θ está en el primer cuadrante, ¿cuál es el valor de cos(θ)?",
+    "options": [
+      "4/5",
+      "2/5",
+      "3/4",
+      "1/5"
+    ],
+    "correct": 0,
+    "explanation": "Usando la identidad sen²θ + cos²θ = 1: (3/5)² + cos²θ = 1 → 9/25 + cos²θ = 1 → cos²θ = 16/25 → cosθ = 4/5."
+  },
+  {
+    "id": "mat_pro_9",
+    "icon": "🔢",
+    "text": "De un grupo de 10 estudiantes se quiere elegir un comité de 3 personas. ¿De cuántas formas diferentes se puede hacer?",
+    "options": [
+      "120",
+      "720",
+      "30",
+      "240"
+    ],
+    "correct": 0,
+    "explanation": "Es una combinación (el orden no importa): C(10,3) = (10 × 9 × 8) / (3 × 2 × 1) = 720 / 6 = 120."
+  },
+  {
+    "id": "mat_pro_10",
+    "icon": "📐",
+    "text": "¿Cuál es la ecuación de la recta que pasa por el punto (1, 2) y tiene una pendiente m = 3?",
+    "options": [
+      "y = 3x - 1",
+      "y = 3x + 1",
+      "y = 3x + 2",
+      "y = 3x - 2"
+    ],
+    "correct": 0,
+    "explanation": "Usando la fórmula punto-pendiente: y - 2 = 3(x - 1) → y - 2 = 3x - 3 → y = 3x - 1."
+  },
+  {
+    "id": "mat_pro_11",
+    "icon": "📊",
+    "text": "Un televisor que costaba $800.000 tiene un descuento del 15% y luego sobre el precio descontado se aplica un IVA del 19%. ¿Cual es el valor final?",
+    "options": [
+      "$809.200",
+      "$843.200",
+      "$780.000",
+      "$820.500"
+    ],
+    "correct": 0,
+    "explanation": "Precio con descuento: 800.000 × 0.85 = 680.000. Precio con IVA: 680.000 × 1.19 = 809.200."
+  },
+  {
+    "id": "mat_pro_12",
+    "icon": "🔢",
+    "text": "Simplificando la expresión (x² - 9) ÷ (x + 3), para x ≠ -3, se obtiene:",
+    "options": [
+      "x - 3",
+      "x + 3",
+      "x - 9",
+      "x"
+    ],
+    "correct": 0,
+    "explanation": "Factorizando el numerador: (x + 3)(x - 3). Al dividir por (x + 3), queda (x - 3)."
+  },
+  {
+    "id": "mat_pro_13",
+    "icon": "📐",
+    "text": "El perímetro de un cuadrado es igual al de un círculo de radio 7 cm. El lado del cuadrado mide aproximadamente (use π = 3.14):",
+    "options": [
+      "10.99 cm",
+      "11 cm",
+      "43.96 cm",
+      "21.98 cm"
+    ],
+    "correct": 0,
+    "explanation": "Perímetro círculo = 2πr = 2 × 3.14 × 7 = 43.96 cm. Perímetro cuadrado = 4L = 43.96 → L = 43.96 / 4 = 10.99 cm."
+  },
+  {
+    "id": "mat_pro_14",
+    "icon": "📊",
+    "text": "En un curso, el 60% son mujeres. Si hay 12 hombres, ¿cuántos estudiantes hay en total?",
+    "options": [
+      "30",
+      "20",
+      "40",
+      "25"
+    ],
+    "correct": 0,
+    "explanation": "Si el 60% son mujeres, el 40% son hombres. 0.40x = 12 → x = 12 / 0.4 = 30."
+  },
+  {
+    "id": "mat_pro_15",
+    "icon": "🔢",
+    "text": "¿Cuál es el valor de la expresión 2³ + √81 - 5 × 2?",
+    "options": [
+      "7",
+      "11",
+      "9",
+      "5"
+    ],
+    "correct": 0,
+    "explanation": "2³ = 8. √81 = 9. 5 × 2 = 10. Operación: 8 + 9 - 10 = 17 - 10 = 7."
+  },
+  {
+    "id": "mat_pro_16",
+    "icon": "📐",
+    "text": "Un jardín circular tiene un diámetro de 10 metros. Se quiere poner una cerca alrededor. ¿Cuántos metros de cerca se necesitan aproximadamente? (Use π = 3.14)",
+    "options": [
+      "31.4 m",
+      "15.7 m",
+      "62.8 m",
+      "78.5 m"
+    ],
+    "correct": 0,
+    "explanation": "C = π × d = 3.14 × 10 = 31.4 metros."
+  },
+  {
+    "id": "mat_pro_17",
+    "icon": "📊",
+    "text": "Una moneda justa se lanza 3 veces. ¿Cuál es la probabilidad de obtener exactamente 2 caras?",
+    "options": [
+      "3/8",
+      "1/2",
+      "1/4",
+      "3/4"
+    ],
+    "correct": 0,
+    "explanation": "Casos posibles: 2³ = 8. Casos favorables (CCE, CEC, ECC): 3. Probabilidad = 3/8."
+  },
+  {
+    "id": "mat_pro_18",
+    "icon": "🔢",
+    "text": "Si 3x - 7 = 5x + 1, ¿cuál es el valor de x?",
+    "options": [
+      "-4",
+      "4",
+      "3",
+      "-3"
+    ],
+    "correct": 0,
+    "explanation": "Agrupando x: 3x - 5x = 1 + 7 → -2x = 8 → x = -4."
+  },
+  {
+    "id": "mat_pro_19",
+    "icon": "📐",
+    "text": "Un mapa tiene una escala 1:100.000. Si en el mapa la distancia entre dos ciudades es 5 cm, ¿cuál es la distancia real en kilómetros?",
+    "options": [
+      "5 km",
+      "50 km",
+      "0.5 km",
+      "500 km"
+    ],
+    "correct": 0,
+    "explanation": "Distancia real = 5 cm × 100.000 = 500.000 cm. Como 100.000 cm = 1 km, entonces son 5 km."
+  },
+  {
+    "id": "mat_pro_20",
+    "icon": "📊",
+    "text": "La suma de dos números es 20 y su diferencia es 4. ¿Cuáles son los números?",
+    "options": [
+      "12 y 8",
+      "10 y 10",
+      "13 y 7",
+      "11 y 9"
+    ],
+    "correct": 0,
+    "explanation": "x + y = 20; x - y = 4. Sumando: 2x = 24 → x = 12. Sustituyendo: 12 + y = 20 → y = 8."
+  },
+  {
+    "id": "mat_pro_21",
+    "icon": "🔢",
+    "text": "¿Cuál es el resultado de (2/3) + (1/4)?",
+    "options": [
+      "11/12",
+      "3/7",
+      "5/12",
+      "1/2"
+    ],
+    "correct": 0,
+    "explanation": "Mínimo común múltiplo = 12. (8/12) + (3/12) = 11/12."
+  },
+  {
+    "id": "mat_pro_22",
+    "icon": "📐",
+    "text": "¿Cuál es la suma de los ángulos internos de un hexágono regular?",
+    "options": [
+      "720°",
+      "540°",
+      "1080°",
+      "360°"
+    ],
+    "correct": 0,
+    "explanation": "S = (n - 2) × 180°. Para n = 6: (6 - 2) × 180° = 4 × 180° = 720°."
+  },
+  {
+    "id": "mat_pro_23",
+    "icon": "📊",
+    "text": "Si en una serie de datos el valor de la varianza es 16, ¿cuál es la desviación estándar?",
+    "options": [
+      "4",
+      "8",
+      "2",
+      "16"
+    ],
+    "correct": 0,
+    "explanation": "La desviación estándar es la raíz cuadrada de la varianza. √16 = 4."
+  },
+  {
+    "id": "mat_pro_24",
+    "icon": "🔢",
+    "text": "Resuelve para x: √(2x + 1) = 5",
+    "options": [
+      "12",
+      "24",
+      "13",
+      "11"
+    ],
+    "correct": 0,
+    "explanation": "Elevando al cuadrado: 2x + 1 = 25. 2x = 24. x = 12."
+  },
+  {
+    "id": "mat_pro_25",
+    "icon": "📐",
+    "text": "Si un ángulo α mide 45°, ¿cuál es su medida en radianes?",
+    "options": [
+      "π/4",
+      "π/2",
+      "π/3",
+      "π/6"
+    ],
+    "correct": 0,
+    "explanation": "Conversión: radianes = grados × (π/180). 45 × (π/180) = π/4."
+  },
+  {
+    "id": "mat_pro_26",
+    "icon": "📊",
+    "text": "En una caja hay 2 bolas blancas y 3 negras. Si se saca una bola, se mira el color y se devuelve, y luego se saca otra, ¿cuál es la probabilidad de que ambas sean blancas?",
+    "options": [
+      "4/25",
+      "2/5",
+      "1/10",
+      "1/5"
+    ],
+    "correct": 0,
+    "explanation": "P(blanca) = 2/5. Como hay reposición, los eventos son independientes. P(BB) = (2/5) × (2/5) = 4/25."
+  },
+  {
+    "id": "mat_pro_27",
+    "icon": "🔢",
+    "text": "El valor de la expresión |-5 + 2| - |3 - 8| es:",
+    "options": [
+      "-2",
+      "8",
+      "2",
+      "-8"
+    ],
+    "correct": 0,
+    "explanation": "|-3| - |-5| = 3 - 5 = -2."
+  },
+  {
+    "id": "mat_pro_28",
+    "icon": "📐",
+    "text": "Un prisma triangular tiene una base con área 15 cm² y una altura de 10 cm. ¿Cual es su volumen?",
+    "options": [
+      "150 cm³",
+      "75 cm³",
+      "50 cm³",
+      "45 cm³"
+    ],
+    "correct": 0,
+    "explanation": "V = Área base × altura = 15 × 10 = 150 cm³."
+  },
+  {
+    "id": "mat_pro_29",
+    "icon": "📊",
+    "text": "Si x² = 49, entonces los posibles valores de x son:",
+    "options": [
+      "±7",
+      "7",
+      "-7",
+      "49"
+    ],
+    "correct": 0,
+    "explanation": "x = ±√49 = ±7."
+  },
+  {
+    "id": "mat_pro_30",
+    "icon": "🔢",
+    "text": "La suma de los primeros 10 números naturales (1 al 10) es:",
+    "options": [
+      "55",
+      "50",
+      "45",
+      "60"
+    ],
+    "correct": 0,
+    "explanation": "S = n(n+1)/2 = 10(11)/2 = 55."
+  },
+  {
+    "id": "mat_pro_31",
+    "icon": "📐",
+    "text": "Un ángulo recto mide 90°. ¿Cuál es su suplemento?",
+    "options": [
+      "90°",
+      "180°",
+      "0°",
+      "270°"
+    ],
+    "correct": 0,
+    "explanation": "Dos ángulos son suplementarios si suman 180°. 180° - 90° = 90°."
+  },
+  {
+    "id": "mat_pro_32",
+    "icon": "📊",
+    "text": "Si en un triángulo los lados miden 3, 4 y 5 cm, el triángulo es:",
+    "options": [
+      "Rectángulo",
+      "Acutángulo",
+      "Obtusángulo",
+      "Isósceles"
+    ],
+    "correct": 0,
+    "explanation": "Cumple el teorema de Pitágoras: 3² + 4² = 9 + 16 = 25 = 5². Por lo tanto, es rectángulo."
+  },
+  {
+    "id": "mat_pro_33",
+    "icon": "🔢",
+    "text": "Simplifica: 2(x - 3) + 4(x + 1)",
+    "options": [
+      "6x - 2",
+      "6x + 10",
+      "2x - 2",
+      "6x + 2"
+    ],
+    "correct": 0,
+    "explanation": "2x - 6 + 4x + 4 = 6x - 2."
+  },
+  {
+    "id": "mat_pro_34",
+    "icon": "📐",
+    "text": "¿Cuál es la pendiente de una recta horizontal?",
+    "options": [
+      "0",
+      "1",
+      "Indefinida",
+      "-1"
+    ],
+    "correct": 0,
+    "explanation": "En una recta horizontal, el cambio en y es cero, por lo tanto m = Δy/Δx = 0/Δx = 0."
+  },
+  {
+    "id": "mat_pro_35",
+    "icon": "📊",
+    "text": "Si el 20% de x es 40, ¿cuál es el valor de x?",
+    "options": [
+      "200",
+      "100",
+      "800",
+      "40"
+    ],
+    "correct": 0,
+    "explanation": "0.20x = 40 → x = 40 / 0.20 = 200."
+  },
+  {
+    "id": "mat_pro_36",
+    "icon": "🔢",
+    "text": "El valor de 2⁰ es:",
+    "options": [
+      "1",
+      "0",
+      "2",
+      "Depende de la base"
+    ],
+    "correct": 0,
+    "explanation": "Cualquier número (excepto 0) elevado a la potencia 0 es igual a 1."
+  },
+  {
+    "id": "mat_pro_37",
+    "icon": "📐",
+    "text": "El volumen de un cubo de lado 4 cm es:",
+    "options": [
+      "64 cm³",
+      "16 cm³",
+      "32 cm³",
+      "12 cm³"
+    ],
+    "correct": 0,
+    "explanation": "V = L³ = 4³ = 64 cm³."
+  },
+  {
+    "id": "mat_pro_38",
+    "icon": "📊",
+    "text": "Si lanzas un dado, ¿cuál es la probabilidad de que salga un número par?",
+    "options": [
+      "1/2",
+      "1/3",
+      "1/6",
+      "2/3"
+    ],
+    "correct": 0,
+    "explanation": "Números pares en un dado: 2, 4, 6 (3 casos). Total de casos: 6. P = 3/6 = 1/2."
+  },
+  {
+    "id": "mat_pro_39",
+    "icon": "🔢",
+    "text": "Factorizar la expresión x² - 16:",
+    "options": [
+      "(x - 4)(x + 4)",
+      "(x - 4)²",
+      "(x + 4)²",
+      "(x - 8)(x + 8)"
+    ],
+    "correct": 0,
+    "explanation": "Es una diferencia de cuadrados: a² - b² = (a - b)(a + b)."
+  },
+  {
+    "id": "mat_pro_40",
+    "icon": "📐",
+    "text": "¿Cuántos grados miden los ángulos de un triángulo equilátero?",
+    "options": [
+      "60°",
+      "45°",
+      "90°",
+      "30°"
+    ],
+    "correct": 0,
+    "explanation": "En un triángulo equilátero, todos los lados y ángulos son iguales. 180° / 3 = 60°."
+  }
+]

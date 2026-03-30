@@ -1,0 +1,522 @@
+[
+  {
+    "id": "nat_pro_1",
+    "icon": "🔬",
+    "text": "En el proceso de fotosíntesis, las plantas convierten la energía lumínica en energía química. ¿Qué gas es liberado como subproducto de este proceso?",
+    "options": [
+      "Oxígeno (O₂)",
+      "Dióxido de Carbono (CO₂)",
+      "Nitrógeno (N₂)",
+      "Metano (CH₄)"
+    ],
+    "correct": 0,
+    "explanation": "Durante la fase luminosa, el agua se rompe (fotólisis) liberando electrones y oxígeno al ambiente."
+  },
+  {
+    "id": "nat_pro_2",
+    "icon": "🧪",
+    "text": "Un átomo tiene 6 protones, 6 electrones y 6 neutrones. ¿Cuál es su número másico (A)?",
+    "options": [
+      "12",
+      "6",
+      "18",
+      "0"
+    ],
+    "correct": 0,
+    "explanation": "El número másico A es la suma de protones (Z) y neutrones (N). 6 + 6 = 12."
+  },
+  {
+    "id": "nat_pro_3",
+    "icon": "⚡",
+    "text": "Según la Segunda Ley de Newton, si se aplica la misma fuerza a dos objetos de diferente masa, el objeto con mayor masa tendrá:",
+    "options": [
+      "Menor aceleración",
+      "Mayor aceleración",
+      "La misma aceleración",
+      "Velocidad constante"
+    ],
+    "correct": 0,
+    "explanation": "F = m × a. Si F es constante, la masa m y la aceleración a son inversamente proporcionales."
+  },
+  {
+    "id": "nat_pro_4",
+    "icon": "🔬",
+    "text": "La mitosis es un tipo de división celular que tiene como resultado:",
+    "options": [
+      "Dos células hijas genéticamente idénticas a la madre",
+      "Cuatro células hijas con la mitad de cromosomas",
+      "Una sola célula con el doble de ADN",
+      "La formación de gametos (óvulos y espermatozoides)"
+    ],
+    "correct": 0,
+    "explanation": "La mitosis es para crecimiento y reparación, manteniendo el número diploide de cromosomas."
+  },
+  {
+    "id": "nat_pro_5",
+    "icon": "🧪",
+    "text": "Una solución con un pH de 3 se clasifica como:",
+    "options": [
+      "Ácida",
+      "Básica (Alcalina)",
+      "Neutra",
+      "Salina"
+    ],
+    "correct": 0,
+    "explanation": "El pH oscila de 0 a 14. Valores menores a 7 son ácidos, 7 es neutro y mayores a 7 son básicos."
+  },
+  {
+    "id": "nat_pro_6",
+    "icon": "⚡",
+    "text": "La energía que posee un objeto en virtud de su posición (altura) se denomina:",
+    "options": [
+      "Energía potencial gravitatoria",
+      "Energía cinética",
+      "Energía térmica",
+      "Energía nuclear"
+    ],
+    "correct": 0,
+    "explanation": "Ep = mgh. Depende de la masa, la gravedad y la altura."
+  },
+  {
+    "id": "nat_pro_7",
+    "icon": "🔬",
+    "text": "En una red trófica, ¿qué organismo ocupa siempre el primer nivel?",
+    "options": [
+      "Productores (Plantas)",
+      "Consumidores primarios",
+      "Descomponedores",
+      "Depredadores tope"
+    ],
+    "correct": 0,
+    "explanation": "Los productores transforman energía inorgánica en orgánica mediante la fotosíntesis."
+  },
+  {
+    "id": "nat_pro_8",
+    "icon": "🧪",
+    "text": "El enlace químico que se forma por la transferencia de electrones de un metal a un no metal se llama:",
+    "options": [
+      "Iónico",
+      "Covalente",
+      "Metálico",
+      "Puente de hidrógeno"
+    ],
+    "correct": 0,
+    "explanation": "Ocurre atracción electrostática entre iones de carga opuesta tras la transferencia."
+  },
+  {
+    "id": "nat_pro_9",
+    "icon": "⚡",
+    "text": "Un circuito eléctrico tiene una resistencia de 10 Ω y un voltaje de 20 V. Según la ley de Ohm, ¿cuál es la corriente?",
+    "options": [
+      "2 A",
+      "200 A",
+      "0.5 A",
+      "30 A"
+    ],
+    "correct": 0,
+    "explanation": "V = I × R → I = V / R = 20 / 10 = 2 Amperios."
+  },
+  {
+    "id": "nat_pro_10",
+    "icon": "🔬",
+    "text": "La teoría de la evolución por selección natural fue propuesta originalmente por:",
+    "options": [
+      "Charles Darwin",
+      "Gregor Mendel",
+      "Louis Pasteur",
+      "Jean-Baptiste Lamarck"
+    ],
+    "correct": 0,
+    "explanation": "Darwin planteó que los individuos mejor adaptados tienen más probabilidad de sobrevivir y reproducirse."
+  },
+  {
+    "id": "nat_pro_11",
+    "icon": "🧪",
+    "text": "El cambio de estado de sólido a gas sin pasar por líquido se llama:",
+    "options": [
+      "Sublimación",
+      "Evaporación",
+      "Condensación",
+      "Fusión"
+    ],
+    "correct": 0,
+    "explanation": "Ejemplos comunes son el hielo seco o la naftalina."
+  },
+  {
+    "id": "nat_pro_12",
+    "icon": "⚡",
+    "text": "La luz blanca, al pasar por un prisma, se descompone en colores debido al fenómeno de:",
+    "options": [
+      "Dispersión",
+      "Reflexión",
+      "Interferencia",
+      "Polarización"
+    ],
+    "correct": 0,
+    "explanation": "Diferentes longitudes de onda viajan a distinta velocidad en el medio, separándose."
+  },
+  {
+    "id": "nat_pro_13",
+    "icon": "🔬",
+    "text": "Las mitocondrias son orgánulos celulares cuya función principal es:",
+    "options": [
+      "La respiración celular y producción de ATP",
+      "La síntesis de proteínas",
+      "El almacenamiento de agua",
+      "La digestión de desechos"
+    ],
+    "correct": 0,
+    "explanation": "Son la 'central energética' de la célula."
+  },
+  {
+    "id": "nat_pro_14",
+    "icon": "🧪",
+    "text": "En una reacción exotérmica:",
+    "options": [
+      "Se libera energía en forma de calor",
+      "Se absorbe calor del entorno",
+      "La temperatura del sistema baja",
+      "No hay cambio de energía"
+    ],
+    "correct": 0,
+    "explanation": "Exo = hacia afuera; la entalpía de productos es menor a la de reactivos."
+  },
+  {
+    "id": "nat_pro_15",
+    "icon": "⚡",
+    "text": "La unidad de medida de la fuerza en el Sistema Internacional es el:",
+    "options": [
+      "Newton",
+      "Joule",
+      "Watt",
+      "Pascal"
+    ],
+    "correct": 0,
+    "explanation": "1 N = 1 kg·m/s²."
+  },
+  {
+    "id": "nat_pro_16",
+    "icon": "🔬",
+    "text": "Si una persona tiene el genotipo 'Aa' para un carácter, se dice que es:",
+    "options": [
+      "Heterocigota",
+      "Homocigota dominante",
+      "Homocigota recesivo",
+      "Haplodiploide"
+    ],
+    "correct": 0,
+    "explanation": "Tiene dos alelos diferentes para el mismo gen."
+  },
+  {
+    "id": "nat_pro_17",
+    "icon": "🧪",
+    "text": "El agua (H₂O) es considerada el 'solvente universal' debido a su:",
+    "options": [
+      "Polaridad",
+      "Color transparencia",
+      "Bajo punto de ebullición",
+      "Sabor neutro"
+    ],
+    "correct": 0,
+    "explanation": "Su naturaleza polar permite disolver una gran variedad de sustancias iónicas y polares."
+  },
+  {
+    "id": "nat_pro_18",
+    "icon": "⚡",
+    "text": "El calor se transmite en los metales principalmente por:",
+    "options": [
+      "Conducción",
+      "Convección",
+      "Radiación",
+      "Aislamiento"
+    ],
+    "correct": 0,
+    "explanation": "Se da por el choque de partículas en sólidos."
+  },
+  {
+    "id": "nat_pro_19",
+    "icon": "🔬",
+    "text": "¿Qué parte de la flor se convierte generalmente en fruto tras la fecundación?",
+    "options": [
+      "El ovario",
+      "Los pétalos",
+      "El polen",
+      "Las hojas"
+    ],
+    "correct": 0,
+    "explanation": "El óvulo se vuelve semilla y el ovario se desarrolla como fruto."
+  },
+  {
+    "id": "nat_pro_20",
+    "icon": "🧪",
+    "text": "Los carbohidratos están formados principalmente por estos elementos:",
+    "options": [
+      "C, H, O",
+      "N, P, S",
+      "Fe, Ca, Mg",
+      "Cl, Na, K"
+    ],
+    "correct": 0,
+    "explanation": "Carbono, Hidrógeno y Oxígeno (Azúcares)."
+  },
+  {
+    "id": "nat_pro_21",
+    "icon": "⚡",
+    "text": "La presión atmosférica disminuye con la altura debido a que:",
+    "options": [
+      "Hay menos aire encima ejerciendo peso",
+      "La gravedad es mayor",
+      "Hace más frío arriba",
+      "El aire es más húmedo"
+    ],
+    "correct": 0,
+    "explanation": "A mayor altura, la columna de aire sobre nosotros es menor."
+  },
+  {
+    "id": "nat_pro_22",
+    "icon": "🔬",
+    "text": "El sistema inmunológico se encarga de:",
+    "options": [
+      "Defender al organismo contra patógenos",
+      "Digerir los alimentos",
+      "Bombear sangre a los órganos",
+      "Secretar hormonas de crecimiento"
+    ],
+    "correct": 0,
+    "explanation": "Utiliza glóbulos blancos y anticuerpos para reconocer y atacar virus o bacterias."
+  },
+  {
+    "id": "nat_pro_23",
+    "icon": "🧪",
+    "text": "El gas más abundante en la atmósfera terrestre es el:",
+    "options": [
+      "Nitrógeno (78%)",
+      "Oxígeno (21%)",
+      "Dióxido de Carbono (0.04%)",
+      "Argón (0.9%)"
+    ],
+    "correct": 0,
+    "explanation": "El N₂ domina la composición del aire."
+  },
+  {
+    "id": "nat_pro_24",
+    "icon": "⚡",
+    "text": "El sonido es una onda de tipo:",
+    "options": [
+      "Mecánica longitudinal",
+      "Electromagnética transversal",
+      "De radio",
+      "Gravitacional"
+    ],
+    "correct": 0,
+    "explanation": "Necesita un medio de propagación y las partículas vibran en la misma dirección de la onda."
+  },
+  {
+    "id": "nat_pro_25",
+    "icon": "🔬",
+    "text": "El ADN se encuentra principalmente dentro de este orgánulo en células eucariotas:",
+    "options": [
+      "Núcleo",
+      "Ribosoma",
+      "Lisosoma",
+      "Aparato de Golgi"
+    ],
+    "correct": 0,
+    "explanation": "El núcleo resguarda la información genética."
+  },
+  {
+    "id": "nat_pro_26",
+    "icon": "🧪",
+    "text": "¿Qué sucede con la masa de los reactantes en una reacción química en recipiente cerrado según Lavoisier?",
+    "options": [
+      "Permanece constante",
+      "Desaparece parte de ella",
+      "Aumenta si hay fuego",
+      "Se transforma toda en energía"
+    ],
+    "correct": 0,
+    "explanation": "Ley de conservación de la masa: 'la materia no se crea ni se destruye'."
+  },
+  {
+    "id": "nat_pro_27",
+    "icon": "⚡",
+    "text": "El fenómeno por el cual un rayo de luz cambia de dirección al pasar de un medio a otro (ej: aire a agua) se llama:",
+    "options": [
+      "Refracción",
+      "Difracción",
+      "Atalismo",
+      "Reflexión"
+    ],
+    "correct": 0,
+    "explanation": "Se debe al cambio de velocidad de la luz en los distintos medios."
+  },
+  {
+    "id": "nat_pro_28",
+    "icon": "🔬",
+    "text": "En el ciclo del agua, la 'evapotranspiración' incluye el agua que:",
+    "options": [
+      "Liberan las plantas a la atmósfera",
+      "Cae en forma de nieve",
+      "Se infiltra en el suelo",
+      "Fluye por los ríos"
+    ],
+    "correct": 0,
+    "explanation": "Es la suma de evaporación de superficies y transpiración vegetal."
+  },
+  {
+    "id": "nat_pro_29",
+    "icon": "🧪",
+    "text": "Un hidrocarburo que tiene solo enlaces sencillos se clasifica como:",
+    "options": [
+      "Alcano",
+      "Alqueno",
+      "Alquino",
+      "Aromático"
+    ],
+    "correct": 0,
+    "explanation": "Son hidrocarburos saturados (fórmula CₙH₂ₙ₊₂)."
+  },
+  {
+    "id": "nat_pro_30",
+    "icon": "⚡",
+    "text": "La unidad de potencia eléctrica es el:",
+    "options": [
+      "Vatio (Watt)",
+      "Voltio",
+      "Amperio",
+      "Ohmio"
+    ],
+    "correct": 0,
+    "explanation": "P (Watts) = V (Volts) × I (Amps)."
+  },
+  {
+    "id": "nat_pro_31",
+    "icon": "🔬",
+    "text": "En genética, el 'fenotipo' se refiere a:",
+    "options": [
+      "Los rasgos observables de un individuo",
+      "La secuencia interna de genes",
+      "El número total de cromosomas",
+      "Un tipo de mutación dañina"
+    ],
+    "correct": 0,
+    "explanation": "Es la expresión del genotipo influenciada por el ambiente."
+  },
+  {
+    "id": "nat_pro_32",
+    "icon": "🧪",
+    "text": "El CO₂ es un gas de efecto invernadero porque:",
+    "options": [
+      "Atrapa el calor radiado por la superficie terrestre",
+      "Destruye la capa de ozono directamente",
+      "Enfría los océanos rápidamente",
+      "Impide que la luz del sol llegue a la Tierra"
+    ],
+    "correct": 0,
+    "explanation": "Deja pasar la luz solar pero absorbe la radiación infrarroja de salida."
+  },
+  {
+    "id": "nat_pro_33",
+    "icon": "⚡",
+    "text": "Un objeto en caída libre en el vacío se desplaza con:",
+    "options": [
+      "Aceleración constante",
+      "Velocidad constante",
+      "Desaceleración",
+      "Trayectoria circular"
+    ],
+    "correct": 0,
+    "explanation": "La aceleración de la gravedad (g ≈ 9.8 m/s²) es constante."
+  },
+  {
+    "id": "nat_pro_34",
+    "icon": "🔬",
+    "text": "Los ribosomas son responsables de:",
+    "options": [
+      "La síntesis de proteínas",
+      "La síntesis de lípidos",
+      "La división del núcleo",
+      "El transporte de glucosa"
+    ],
+    "correct": 0,
+    "explanation": "Traducen el ARN mensajero en cadenas de aminoácidos."
+  },
+  {
+    "id": "nat_pro_35",
+    "icon": "🧪",
+    "text": "¿Qué partícula subatómica tiene carga negativa?",
+    "options": [
+      "Electrón",
+      "Protón",
+      "Neutrón",
+      "Positrón"
+    ],
+    "correct": 0,
+    "explanation": "El electrón orbita el núcleo y posee carga negativa fundamental."
+  },
+  {
+    "id": "nat_pro_36",
+    "icon": "⚡",
+    "text": "La Primera Ley de la Termodinámica afirma que:",
+    "options": [
+      "La energía se conserva, solo se transforma",
+      "El desorden (entropía) siempre aumenta",
+      "El cero absoluto es inalcanzable",
+      "La energía fluye solo del frío al calor"
+    ],
+    "correct": 0,
+    "explanation": "Es el principio de conservación de la energía aplicado al calor."
+  },
+  {
+    "id": "nat_pro_37",
+    "icon": "🔬",
+    "text": "El órgano encargado de filtrar la sangre y producir orina es:",
+    "options": [
+      "Riñón",
+      "Hígado",
+      "Páncreas",
+      "Pulmón"
+    ],
+    "correct": 0,
+    "explanation": "Los riñones eliminan toxinas y regulan el equilibrio hídrico."
+  },
+  {
+    "id": "nat_pro_38",
+    "icon": "🧪",
+    "text": "Un catalizador en una reacción química sirve para:",
+    "options": [
+      "Aumentar la velocidad de la reacción",
+      "Consumirse para crear más producto",
+      "Inhibir completamente el proceso",
+      "Cambiar el pH de la solución base"
+    ],
+    "correct": 0,
+    "explanation": "Baja la energía de activación sin gastarse en el proceso."
+  },
+  {
+    "id": "nat_pro_39",
+    "icon": "⚡",
+    "text": "La fuerza de atracción entre dos masas depende de:",
+    "options": [
+      "El producto de sus masas y la distancia",
+      "Su color y temperatura",
+      "Solo del tiempo que lleven juntas",
+      "De la presión atmosférica del lugar"
+    ],
+    "correct": 0,
+    "explanation": "Ley de gravitación universal de Newton."
+  },
+  {
+    "id": "nat_pro_40",
+    "icon": "🔬",
+    "text": "La homeostasis es el proceso por el cual los seres vivos:",
+    "options": [
+      "Mantienen un equilibrio interno constante",
+      "Crecen hasta su tamaño adulto",
+      "Se reproducen sexualmente",
+      "Mutan para adaptarse al ambiente"
+    ],
+    "correct": 0,
+    "explanation": "Es la autorregulación (ej: mantener temperatura corporal)."
+  }
+]

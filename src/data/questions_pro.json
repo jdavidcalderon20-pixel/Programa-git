@@ -1,0 +1,2612 @@
+{
+  "Matemáticas": [
+    {
+      "id": "mat_pro_1",
+      "icon": "📐",
+      "text": "Una empresa de mensajería cobra $5.000 por el primer kilogramo de peso de un paquete y $2.500 por cada kilogramo adicional o fracción. Si una persona pagó $17.500 por el envío de un paquete, ¿cuál de las siguientes ecuaciones permite calcular el peso x (en kg) del paquete?",
+      "options": [
+        "5.000 + 2.500(x - 1) = 17.500",
+        "5.000x + 2.500 = 17.500",
+        "2.500x + 5.000 = 17.500",
+        "5.000 + 2.500x = 17.500"
+      ],
+      "correct": 0,
+      "explanation": "El primer kg cuesta $5.000. El resto del peso es (x-1), y cada uno de esos kg adicionales cuesta $2.500. Sumando ambos obtenemos el costo total."
+    },
+    {
+      "id": "mat_pro_2",
+      "icon": "📊",
+      "text": "En una bolsa hay 4 bolas rojas, 3 verdes y 5 azules. Si se extraen dos bolas al azar, una tras otra y sin reposición, ¿cuál es la probabilidad de que ambas sean rojas?",
+      "options": [
+        "1/11",
+        "1/9",
+        "4/33",
+        "1/6"
+      ],
+      "correct": 0,
+      "explanation": "P(1ra roja) = 4/12 = 1/3. P(2da roja | 1ra roja) = 3/11. Multiplicando: (1/3) × (3/11) = 3/33 = 1/11."
+    },
+    {
+      "id": "mat_pro_3",
+      "icon": "🔢",
+      "text": "Considere la función cuadrática f(x) = x² - 6x + 5. ¿Cuál es el valor mínimo que alcanza esta función?",
+      "options": [
+        "-4",
+        "5",
+        "3",
+        "0"
+      ],
+      "correct": 0,
+      "explanation": "El vértice de una parábola x² + bx + c está en x = -b/(2a) = 6/2 = 3. Sustituyendo: f(3) = 3² - 6(3) + 5 = 9 - 18 + 5 = -4."
+    },
+    {
+      "id": "mat_pro_4",
+      "icon": "📐",
+      "text": "Un cilindro tiene una altura de 10 cm y un radio de base de 3 cm. Si se duplica el radio de la base y se mantiene la misma altura, el volumen del nuevo cilindro será:",
+      "options": [
+        "El cuádruple del volumen original",
+        "El doble del volumen original",
+        "El triple del volumen original",
+        "Ocho veces el volumen original"
+      ],
+      "correct": 0,
+      "explanation": "V = π × r² × h. Si el radio r se convierte en 2r, el volumen se convierte en π × (2r)² × h = 4 × (π × r² × h), o sea, 4 veces el original."
+    },
+    {
+      "id": "mat_pro_5",
+      "icon": "📊",
+      "text": "La media aritmética de cinco números es 12. Si se agrega un sexto número, la nueva media es 14. ¿Cuál es el valor del sexto número?",
+      "options": [
+        "24",
+        "20",
+        "22",
+        "26"
+      ],
+      "correct": 0,
+      "explanation": "Suma de 5 números = 12 × 5 = 60. Suma de 6 números = 14 × 6 = 84. El sexto número es 84 - 60 = 24."
+    },
+    {
+      "id": "mat_pro_6",
+      "icon": "🔢",
+      "text": "¿Cuál es el valor de x en la ecuación log₂ (x + 3) = 5?",
+      "options": [
+        "29",
+        "32",
+        "25",
+        "13"
+      ],
+      "correct": 0,
+      "explanation": "Pasando a forma exponencial: x + 3 = 2⁵. x + 3 = 32. x = 29."
+    },
+    {
+      "id": "mat_pro_7",
+      "icon": "📐",
+      "text": "En un triángulo rectángulo, la hipotenusa mide 13 cm y uno de los catetos mide 5 cm. ¿Cuál es el área del triángulo?",
+      "options": [
+        "30 cm²",
+        "60 cm²",
+        "32.5 cm²",
+        "15 cm²"
+      ],
+      "correct": 0,
+      "explanation": "Por Pitágoras, el otro cateto es √(13² - 5²) = √(169 - 25) = √144 = 12 cm. Área = (base × altura)/2 = (5 × 12)/2 = 30 cm²."
+    },
+    {
+      "id": "mat_pro_8",
+      "icon": "📊",
+      "text": "Si sen(θ) = 3/5 y θ está en el primer cuadrante, ¿cuál es el valor de cos(θ)?",
+      "options": [
+        "4/5",
+        "2/5",
+        "3/4",
+        "1/5"
+      ],
+      "correct": 0,
+      "explanation": "Usando la identidad sen²θ + cos²θ = 1: (3/5)² + cos²θ = 1 → 9/25 + cos²θ = 1 → cos²θ = 16/25 → cosθ = 4/5."
+    },
+    {
+      "id": "mat_pro_9",
+      "icon": "🔢",
+      "text": "De un grupo de 10 estudiantes se quiere elegir un comité de 3 personas. ¿De cuántas formas diferentes se puede hacer?",
+      "options": [
+        "120",
+        "720",
+        "30",
+        "240"
+      ],
+      "correct": 0,
+      "explanation": "Es una combinación (el orden no importa): C(10,3) = (10 × 9 × 8) / (3 × 2 × 1) = 720 / 6 = 120."
+    },
+    {
+      "id": "mat_pro_10",
+      "icon": "📐",
+      "text": "¿Cuál es la ecuación de la recta que pasa por el punto (1, 2) y tiene una pendiente m = 3?",
+      "options": [
+        "y = 3x - 1",
+        "y = 3x + 1",
+        "y = 3x + 2",
+        "y = 3x - 2"
+      ],
+      "correct": 0,
+      "explanation": "Usando la fórmula punto-pendiente: y - 2 = 3(x - 1) → y - 2 = 3x - 3 → y = 3x - 1."
+    },
+    {
+      "id": "mat_pro_11",
+      "icon": "📊",
+      "text": "Un televisor que costaba $800.000 tiene un descuento del 15% y luego sobre el precio descontado se aplica un IVA del 19%. ¿Cual es el valor final?",
+      "options": [
+        "$809.200",
+        "$843.200",
+        "$780.000",
+        "$820.500"
+      ],
+      "correct": 0,
+      "explanation": "Precio con descuento: 800.000 × 0.85 = 680.000. Precio con IVA: 680.000 × 1.19 = 809.200."
+    },
+    {
+      "id": "mat_pro_12",
+      "icon": "🔢",
+      "text": "Simplificando la expresión (x² - 9) ÷ (x + 3), para x ≠ -3, se obtiene:",
+      "options": [
+        "x - 3",
+        "x + 3",
+        "x - 9",
+        "x"
+      ],
+      "correct": 0,
+      "explanation": "Factorizando el numerador: (x + 3)(x - 3). Al dividir por (x + 3), queda (x - 3)."
+    },
+    {
+      "id": "mat_pro_13",
+      "icon": "📐",
+      "text": "El perímetro de un cuadrado es igual al de un círculo de radio 7 cm. El lado del cuadrado mide aproximadamente (use π = 3.14):",
+      "options": [
+        "10.99 cm",
+        "11 cm",
+        "43.96 cm",
+        "21.98 cm"
+      ],
+      "correct": 0,
+      "explanation": "Perímetro círculo = 2πr = 2 × 3.14 × 7 = 43.96 cm. Perímetro cuadrado = 4L = 43.96 → L = 43.96 / 4 = 10.99 cm."
+    },
+    {
+      "id": "mat_pro_14",
+      "icon": "📊",
+      "text": "En un curso, el 60% son mujeres. Si hay 12 hombres, ¿cuántos estudiantes hay en total?",
+      "options": [
+        "30",
+        "20",
+        "40",
+        "25"
+      ],
+      "correct": 0,
+      "explanation": "Si el 60% son mujeres, el 40% son hombres. 0.40x = 12 → x = 12 / 0.4 = 30."
+    },
+    {
+      "id": "mat_pro_15",
+      "icon": "🔢",
+      "text": "¿Cuál es el valor de la expresión 2³ + √81 - 5 × 2?",
+      "options": [
+        "7",
+        "11",
+        "9",
+        "5"
+      ],
+      "correct": 0,
+      "explanation": "2³ = 8. √81 = 9. 5 × 2 = 10. Operación: 8 + 9 - 10 = 17 - 10 = 7."
+    },
+    {
+      "id": "mat_pro_16",
+      "icon": "📐",
+      "text": "Un jardín circular tiene un diámetro de 10 metros. Se quiere poner una cerca alrededor. ¿Cuántos metros de cerca se necesitan aproximadamente? (Use π = 3.14)",
+      "options": [
+        "31.4 m",
+        "15.7 m",
+        "62.8 m",
+        "78.5 m"
+      ],
+      "correct": 0,
+      "explanation": "C = π × d = 3.14 × 10 = 31.4 metros."
+    },
+    {
+      "id": "mat_pro_17",
+      "icon": "📊",
+      "text": "Una moneda justa se lanza 3 veces. ¿Cuál es la probabilidad de obtener exactamente 2 caras?",
+      "options": [
+        "3/8",
+        "1/2",
+        "1/4",
+        "3/4"
+      ],
+      "correct": 0,
+      "explanation": "Casos posibles: 2³ = 8. Casos favorables (CCE, CEC, ECC): 3. Probabilidad = 3/8."
+    },
+    {
+      "id": "mat_pro_18",
+      "icon": "🔢",
+      "text": "Si 3x - 7 = 5x + 1, ¿cuál es el valor de x?",
+      "options": [
+        "-4",
+        "4",
+        "3",
+        "-3"
+      ],
+      "correct": 0,
+      "explanation": "Agrupando x: 3x - 5x = 1 + 7 → -2x = 8 → x = -4."
+    },
+    {
+      "id": "mat_pro_19",
+      "icon": "📐",
+      "text": "Un mapa tiene una escala 1:100.000. Si en el mapa la distancia entre dos ciudades es 5 cm, ¿cuál es la distancia real en kilómetros?",
+      "options": [
+        "5 km",
+        "50 km",
+        "0.5 km",
+        "500 km"
+      ],
+      "correct": 0,
+      "explanation": "Distancia real = 5 cm × 100.000 = 500.000 cm. Como 100.000 cm = 1 km, entonces son 5 km."
+    },
+    {
+      "id": "mat_pro_20",
+      "icon": "📊",
+      "text": "La suma de dos números es 20 y su diferencia es 4. ¿Cuáles son los números?",
+      "options": [
+        "12 y 8",
+        "10 y 10",
+        "13 y 7",
+        "11 y 9"
+      ],
+      "correct": 0,
+      "explanation": "x + y = 20; x - y = 4. Sumando: 2x = 24 → x = 12. Sustituyendo: 12 + y = 20 → y = 8."
+    },
+    {
+      "id": "mat_pro_21",
+      "icon": "🔢",
+      "text": "¿Cuál es el resultado de (2/3) + (1/4)?",
+      "options": [
+        "11/12",
+        "3/7",
+        "5/12",
+        "1/2"
+      ],
+      "correct": 0,
+      "explanation": "Mínimo común múltiplo = 12. (8/12) + (3/12) = 11/12."
+    },
+    {
+      "id": "mat_pro_22",
+      "icon": "📐",
+      "text": "¿Cuál es la suma de los ángulos internos de un hexágono regular?",
+      "options": [
+        "720°",
+        "540°",
+        "1080°",
+        "360°"
+      ],
+      "correct": 0,
+      "explanation": "S = (n - 2) × 180°. Para n = 6: (6 - 2) × 180° = 4 × 180° = 720°."
+    },
+    {
+      "id": "mat_pro_23",
+      "icon": "📊",
+      "text": "Si en una serie de datos el valor de la varianza es 16, ¿cuál es la desviación estándar?",
+      "options": [
+        "4",
+        "8",
+        "2",
+        "16"
+      ],
+      "correct": 0,
+      "explanation": "La desviación estándar es la raíz cuadrada de la varianza. √16 = 4."
+    },
+    {
+      "id": "mat_pro_24",
+      "icon": "🔢",
+      "text": "Resuelve para x: √(2x + 1) = 5",
+      "options": [
+        "12",
+        "24",
+        "13",
+        "11"
+      ],
+      "correct": 0,
+      "explanation": "Elevando al cuadrado: 2x + 1 = 25. 2x = 24. x = 12."
+    },
+    {
+      "id": "mat_pro_25",
+      "icon": "📐",
+      "text": "Si un ángulo α mide 45°, ¿cuál es su medida en radianes?",
+      "options": [
+        "π/4",
+        "π/2",
+        "π/3",
+        "π/6"
+      ],
+      "correct": 0,
+      "explanation": "Conversión: radianes = grados × (π/180). 45 × (π/180) = π/4."
+    },
+    {
+      "id": "mat_pro_26",
+      "icon": "📊",
+      "text": "En una caja hay 2 bolas blancas y 3 negras. Si se saca una bola, se mira el color y se devuelve, y luego se saca otra, ¿cuál es la probabilidad de que ambas sean blancas?",
+      "options": [
+        "4/25",
+        "2/5",
+        "1/10",
+        "1/5"
+      ],
+      "correct": 0,
+      "explanation": "P(blanca) = 2/5. Como hay reposición, los eventos son independientes. P(BB) = (2/5) × (2/5) = 4/25."
+    },
+    {
+      "id": "mat_pro_27",
+      "icon": "🔢",
+      "text": "El valor de la expresión |-5 + 2| - |3 - 8| es:",
+      "options": [
+        "-2",
+        "8",
+        "2",
+        "-8"
+      ],
+      "correct": 0,
+      "explanation": "|-3| - |-5| = 3 - 5 = -2."
+    },
+    {
+      "id": "mat_pro_28",
+      "icon": "📐",
+      "text": "Un prisma triangular tiene una base con área 15 cm² y una altura de 10 cm. ¿Cual es su volumen?",
+      "options": [
+        "150 cm³",
+        "75 cm³",
+        "50 cm³",
+        "45 cm³"
+      ],
+      "correct": 0,
+      "explanation": "V = Área base × altura = 15 × 10 = 150 cm³."
+    },
+    {
+      "id": "mat_pro_29",
+      "icon": "📊",
+      "text": "Si x² = 49, entonces los posibles valores de x son:",
+      "options": [
+        "±7",
+        "7",
+        "-7",
+        "49"
+      ],
+      "correct": 0,
+      "explanation": "x = ±√49 = ±7."
+    },
+    {
+      "id": "mat_pro_30",
+      "icon": "🔢",
+      "text": "La suma de los primeros 10 números naturales (1 al 10) es:",
+      "options": [
+        "55",
+        "50",
+        "45",
+        "60"
+      ],
+      "correct": 0,
+      "explanation": "S = n(n+1)/2 = 10(11)/2 = 55."
+    },
+    {
+      "id": "mat_pro_31",
+      "icon": "📐",
+      "text": "Un ángulo recto mide 90°. ¿Cuál es su suplemento?",
+      "options": [
+        "90°",
+        "180°",
+        "0°",
+        "270°"
+      ],
+      "correct": 0,
+      "explanation": "Dos ángulos son suplementarios si suman 180°. 180° - 90° = 90°."
+    },
+    {
+      "id": "mat_pro_32",
+      "icon": "📊",
+      "text": "Si en un triángulo los lados miden 3, 4 y 5 cm, el triángulo es:",
+      "options": [
+        "Rectángulo",
+        "Acutángulo",
+        "Obtusángulo",
+        "Isósceles"
+      ],
+      "correct": 0,
+      "explanation": "Cumple el teorema de Pitágoras: 3² + 4² = 9 + 16 = 25 = 5². Por lo tanto, es rectángulo."
+    },
+    {
+      "id": "mat_pro_33",
+      "icon": "🔢",
+      "text": "Simplifica: 2(x - 3) + 4(x + 1)",
+      "options": [
+        "6x - 2",
+        "6x + 10",
+        "2x - 2",
+        "6x + 2"
+      ],
+      "correct": 0,
+      "explanation": "2x - 6 + 4x + 4 = 6x - 2."
+    },
+    {
+      "id": "mat_pro_34",
+      "icon": "📐",
+      "text": "¿Cuál es la pendiente de una recta horizontal?",
+      "options": [
+        "0",
+        "1",
+        "Indefinida",
+        "-1"
+      ],
+      "correct": 0,
+      "explanation": "En una recta horizontal, el cambio en y es cero, por lo tanto m = Δy/Δx = 0/Δx = 0."
+    },
+    {
+      "id": "mat_pro_35",
+      "icon": "📊",
+      "text": "Si el 20% de x es 40, ¿cuál es el valor de x?",
+      "options": [
+        "200",
+        "100",
+        "800",
+        "40"
+      ],
+      "correct": 0,
+      "explanation": "0.20x = 40 → x = 40 / 0.20 = 200."
+    },
+    {
+      "id": "mat_pro_36",
+      "icon": "🔢",
+      "text": "El valor de 2⁰ es:",
+      "options": [
+        "1",
+        "0",
+        "2",
+        "Depende de la base"
+      ],
+      "correct": 0,
+      "explanation": "Cualquier número (excepto 0) elevado a la potencia 0 es igual a 1."
+    },
+    {
+      "id": "mat_pro_37",
+      "icon": "📐",
+      "text": "El volumen de un cubo de lado 4 cm es:",
+      "options": [
+        "64 cm³",
+        "16 cm³",
+        "32 cm³",
+        "12 cm³"
+      ],
+      "correct": 0,
+      "explanation": "V = L³ = 4³ = 64 cm³."
+    },
+    {
+      "id": "mat_pro_38",
+      "icon": "📊",
+      "text": "Si lanzas un dado, ¿cuál es la probabilidad de que salga un número par?",
+      "options": [
+        "1/2",
+        "1/3",
+        "1/6",
+        "2/3"
+      ],
+      "correct": 0,
+      "explanation": "Números pares en un dado: 2, 4, 6 (3 casos). Total de casos: 6. P = 3/6 = 1/2."
+    },
+    {
+      "id": "mat_pro_39",
+      "icon": "🔢",
+      "text": "Factorizar la expresión x² - 16:",
+      "options": [
+        "(x - 4)(x + 4)",
+        "(x - 4)²",
+        "(x + 4)²",
+        "(x - 8)(x + 8)"
+      ],
+      "correct": 0,
+      "explanation": "Es una diferencia de cuadrados: a² - b² = (a - b)(a + b)."
+    },
+    {
+      "id": "mat_pro_40",
+      "icon": "📐",
+      "text": "¿Cuántos grados miden los ángulos de un triángulo equilátero?",
+      "options": [
+        "60°",
+        "45°",
+        "90°",
+        "30°"
+      ],
+      "correct": 0,
+      "explanation": "En un triángulo equilátero, todos los lados y ángulos son iguales. 180° / 3 = 60°."
+    }
+  ],
+  "Lectura Crítica": [
+    {
+      "id": "lc_pro_1",
+      "icon": "📖",
+      "text": "Texto: 'Y me sentí más solo que nunca en medio de la gente, porque me di cuenta de que todos estaban acompañados por su propia imagen'.\n\n¿Qué figura retórica predomina en el fragmento?",
+      "options": [
+        "Paradoja",
+        "Hipérbole",
+        "Símil",
+        "Personificación"
+      ],
+      "correct": 0,
+      "explanation": "La soledad 'en medio de la gente' es una paradoja, pues une dos ideas aparentemente contradictorias."
+    },
+    {
+      "id": "lc_pro_2",
+      "icon": "✍️",
+      "text": "Si un autor utiliza un tono irónico en su columna de opinión para criticar una política pública, su intención principal es:",
+      "options": [
+        "Burlarse sutilmente para evidenciar contradicciones",
+        "Exponer datos técnicos de forma objetiva",
+        "Persuadir al lector mediante la piedad",
+        "Informar sobre la aprobación de la ley"
+      ],
+      "correct": 0,
+      "explanation": "La ironía busca decir algo significando lo contrario o exagerando para resaltar una falla o absurdo."
+    },
+    {
+      "id": "lc_pro_3",
+      "icon": "📖",
+      "text": "En el enunciado 'Aunque la globalización ha traído beneficios económicos, también ha profundizado la brecha de desigualdad', el conector 'Aunque' cumple la función de:",
+      "options": [
+        "Conceder un punto para luego presentar una contraposición",
+        "Introducir una causa directa del fenómeno",
+        "Enumerar beneficios de forma secuencial",
+        "Concluir una idea previamente expuesta"
+      ],
+      "correct": 0,
+      "explanation": "Es un conector concesivo; admite una realidad (beneficios) pero subraya otra opuesta (desigualdad)."
+    },
+    {
+      "id": "lc_pro_4",
+      "icon": "✍️",
+      "text": "¿Qué caracteriza fundamentalmente a un texto argumentativo?",
+      "options": [
+        "La defensa de una tesis mediante razones",
+        "La descripción detallada de personajes",
+        "La narración de hechos cronológicos",
+        "La explicación técnica de un proceso"
+      ],
+      "correct": 0,
+      "explanation": "Su propósito es convencer al lector de una postura (tesis) usando argumentos sustentados."
+    },
+    {
+      "id": "lc_pro_5",
+      "icon": "📖",
+      "text": "Texto: 'La libertad no consiste en hacer lo que uno quiere, sino en no estar obligado a hacer lo que no quiere'.\n\nSegún la frase anterior, la libertad se define como:",
+      "options": [
+        "La ausencia de coacción externa",
+        "El derecho al libre albedrío total",
+        "La capacidad de desobedecer la ley",
+        "El poder de decidir sobre otros"
+      ],
+      "correct": 0,
+      "explanation": "La frase enfatiza la 'no obligación', es decir, no ser forzado por otros (coacción)."
+    },
+    {
+      "id": "lc_pro_6",
+      "icon": "📖",
+      "text": "Si un texto científico afirma que 'la correlación no implica causalidad', está advirtiendo sobre el error de:",
+      "options": [
+        "Asumir que si dos hechos ocurren juntos, uno causó al otro",
+        "Ignorar los datos estadísticos de una muestra",
+        "Confundir la hipótesis con la conclusión",
+        "Utilizar lenguaje subjetivo en un informe"
+      ],
+      "correct": 0,
+      "explanation": "Dos variables pueden variar juntas sin que una sea la causa de la otra (pueden tener una causa común externa)."
+    },
+    {
+      "id": "lc_pro_7",
+      "icon": "✍️",
+      "text": "La diferencia principal entre un hecho y una opinión es que el hecho es:",
+      "options": [
+        "Verificable y objetivo",
+        "Extenso y detallado",
+        "Persuasivo y emotivo",
+        "Reciente y novedoso"
+      ],
+      "correct": 0,
+      "explanation": "Un hecho se puede comprobar mediante evidencia; una opinión depende del juicio personal."
+    },
+    {
+      "id": "lc_pro_8",
+      "icon": "📖",
+      "text": "En un texto narrativo, el narrador omnisciente es aquel que:",
+      "options": [
+        "Conoce todo, incluso los pensamientos de los personajes",
+        "Participa en la historia como protagonista",
+        "Solo cuenta lo que ve desde afuera",
+        "Es un personaje secundario que relata los hechos"
+      ],
+      "correct": 0,
+      "explanation": "Omnisciente viene de 'todo lo sabe'; tiene acceso total al mundo interno de la historia."
+    },
+    {
+      "id": "lc_pro_9",
+      "icon": "✍️",
+      "text": "Cuando se lee un texto filosófico, identificar la 'pregunta problema' permite:",
+      "options": [
+        "Entender el eje central de la discusión",
+        "Conocer la biografía del autor",
+        "Saber en qué año fue escrito el libro",
+        "Identificar el número de capítulos"
+      ],
+      "correct": 0,
+      "explanation": "La filosofía parte de problemas; la pregunta guía todo el razonamiento del texto."
+    },
+    {
+      "id": "lc_pro_10",
+      "icon": "📖",
+      "text": "Texto: 'El hombre nace libre, pero en todas partes se halla encadenado'.\n\nEsta frase de Rousseau sugiere que:",
+      "options": [
+        "La sociedad impone restricciones a la naturaleza humana",
+        "La esclavitud es un estado natural del hombre",
+        "La libertad es una ilusión que no existe realmente",
+        "Las leyes son innecesarias para la convivencia"
+      ],
+      "correct": 0,
+      "explanation": "Sugiere que la condición social y política restringe la libertad natural original."
+    },
+    {
+      "id": "lc_pro_11",
+      "icon": "✍️",
+      "text": "Al evaluar la validez de un argumento, se debe verificar principalmente:",
+      "options": [
+        "La relación lógica entre premisas y conclusión",
+        "La cantidad de palabras utilizadas",
+        "La fama del autor que lo propone",
+        "Que el texto no tenga errores de ortografía"
+      ],
+      "correct": 0,
+      "explanation": "Un argumento es válido si la conclusión se deriva necesariamente de sus premisas."
+    },
+    {
+      "id": "lc_pro_12",
+      "icon": "📖",
+      "text": "Un artículo de divulgación científica se diferencia de uno especializado por:",
+      "options": [
+        "Adaptar el lenguaje para el público general",
+        "No usar datos ni estadísticas reales",
+        "Publicarse solo en redes sociales",
+        "Omitir el nombre de los científicos"
+      ],
+      "correct": 0,
+      "explanation": "La divulgación busca que el conocimiento complejo sea accesible sin perder rigor."
+    },
+    {
+      "id": "lc_pro_13",
+      "icon": "✍️",
+      "text": "El uso de comillas en la frase: El experto dijo que era una 'innovación' cuando en realidad era un plagio, sugiere un tono:",
+      "options": [
+        "Irónico o sarcástico",
+        "De admiración profunda",
+        "De cita textual académica",
+        "De duda científica"
+      ],
+      "correct": 0,
+      "explanation": "Las comillas se usan para distanciar al autor del término, implicando que no está de acuerdo."
+    },
+    {
+      "id": "lc_pro_14",
+      "icon": "📖",
+      "text": "En el análisis de una caricatura política, es fundamental observar:",
+      "options": [
+        "La relación entre los símbolos visuales y el contexto real",
+        "Solo los colores utilizados en el dibujo",
+        "El tipo de papel en el que fue impresa",
+        "La marca de los lápices que usó el dibujante"
+      ],
+      "correct": 0,
+      "explanation": "La caricatura comunica mediante la exageración visual de la realidad política."
+    },
+    {
+      "id": "lc_pro_15",
+      "icon": "✍️",
+      "text": "El conectivo 'Por consiguiente' introduce una:",
+      "options": [
+        "Consecuencia",
+        "Causa",
+        "Contradicción",
+        "Hipótesis"
+      ],
+      "correct": 0,
+      "explanation": "Es un conector consecutivo; indica el resultado de lo dicho anteriormente."
+    },
+    {
+      "id": "lc_pro_16",
+      "icon": "📖",
+      "text": "Un silogismo es un tipo de razonamiento donde:",
+      "options": [
+        "Dos premisas conducen necesariamente a una conclusión",
+        "Se cuenta una historia con moraleja",
+        "Se describen sentimientos de forma poética",
+        "Se comparan dos objetos diferentes"
+      ],
+      "correct": 0,
+      "explanation": "Es la base de la lógica deductiva (ej: Todos los hombres son mortales...)."
+    },
+    {
+      "id": "lc_pro_17",
+      "icon": "✍️",
+      "text": "Si un texto emplea tecnicismos constantes, el lector ideal es:",
+      "options": [
+        "Un experto en la materia",
+        "Un niño en edad escolar",
+        "Cualquier persona con interés",
+        "Un lector de literatura fantástica"
+      ],
+      "correct": 0,
+      "explanation": "Los tecnicismos definen una jerga especializada propia de un campo del saber."
+    },
+    {
+      "id": "lc_pro_18",
+      "icon": "📖",
+      "text": "¿Cuál es la función pedagógica de una fábula?",
+      "options": [
+        "Transmitir una enseñanza moral o ética",
+        "Instruir sobre el cuidado de los animales",
+        "Exponer leyes de la naturaleza",
+        "Entretener sin mayor propósito"
+      ],
+      "correct": 0,
+      "explanation": "Las fábulas usan personajes (usualmente animales) para ilustrar virtudes o vicios humanos."
+    },
+    {
+      "id": "lc_pro_19",
+      "icon": "✍️",
+      "text": "En la frase 'El tiempo es oro', se utiliza una:",
+      "options": [
+        "Metáfora",
+        "Metonimia",
+        "Silepsis",
+        "Anadiplosis"
+      ],
+      "correct": 0,
+      "explanation": "Es una metáfora que identifica el tiempo con un objeto de gran valor económico."
+    },
+    {
+      "id": "lc_pro_20",
+      "icon": "📖",
+      "text": "Leer entre líneas significa:",
+      "options": [
+        "Inferir información que no está explícita",
+        "Revisar si hay errores de impresión",
+        "Saltarse párrafos aburridos",
+        "Memorizar el texto palabra por palabra"
+      ],
+      "correct": 0,
+      "explanation": "Es el proceso cognitivo de captar el sentido implícito o las intenciones ocultas."
+    },
+    {
+      "id": "lc_pro_21",
+      "icon": "📖",
+      "text": "Texto: 'Aquel que no conoce su historia está condenado a repetirla'.\n\nLa premisa implícita en este texto es que:",
+      "options": [
+        "La historia tiene patrones cíclicos",
+        "El conocimiento histórico es inútil",
+        "La repetición es siempre positiva",
+        "El futuro no depende del pasado"
+      ],
+      "correct": 0,
+      "explanation": "Asume que los errores del pasado se repiten si no se aprende de ellos."
+    },
+    {
+      "id": "lc_pro_22",
+      "icon": "✍️",
+      "text": "Si un autor cita a una autoridad reconocida en su campo, está usando un argumento de:",
+      "options": [
+        "Autoridad",
+        "Analogía",
+        "Generalización",
+        "Causa-efecto"
+      ],
+      "correct": 0,
+      "explanation": "El valor del argumento reside en el respaldo del experto citado."
+    },
+    {
+      "id": "lc_pro_23",
+      "icon": "📖",
+      "text": "En el contexto de un debate, una 'falacia' es:",
+      "options": [
+        "Un argumento que parece válido pero no lo es",
+        "Una verdad absoluta e irrefutable",
+        "Un tipo de poesía clásica",
+        "La conclusión final del discurso"
+      ],
+      "correct": 0,
+      "explanation": "Es un error de razonamiento que invalida la base lógica del argumento."
+    },
+    {
+      "id": "lc_pro_24",
+      "icon": "✍️",
+      "text": "Un texto polifónico se caracteriza por:",
+      "options": [
+        "La presencia de múltiples voces o perspectivas",
+        "Tener muchas palabras desconocidas",
+        "Ser escrito por varios autores a la vez",
+        "Estar diseñado para ser leído en voz alta"
+      ],
+      "correct": 0,
+      "explanation": "Viene del griego: 'muchos sonidos/voces'. Incluye diversos puntos de vista."
+    },
+    {
+      "id": "lc_pro_25",
+      "icon": "📖",
+      "text": "El 'análisis crítico' de un texto requiere:",
+      "options": [
+        "Evaluar la lógica y las intenciones del autor",
+        "Resumir el texto sin dar ninguna opinión",
+        "Contar el número de sustantivos y adjetivos",
+        "Comparar la longitud de los capítulos"
+      ],
+      "correct": 0,
+      "explanation": "Implica una lectura profunda que cuestiona y valora la solidez del texto."
+    },
+    {
+      "id": "lc_pro_26",
+      "icon": "✍️",
+      "text": "En el enunciado 'Sus ojos eran dos luceros', la palabra luceros se usa en sentido:",
+      "options": [
+        "Figurado",
+        "Literal",
+        "Científico",
+        "Jurídico"
+      ],
+      "correct": 0,
+      "explanation": "Es un uso poético (connotativo) para resaltar el brillo u hermosura."
+    },
+    {
+      "id": "lc_pro_27",
+      "icon": "📖",
+      "text": "La 'tesis' de un ensayo es:",
+      "options": [
+        "La idea central que el autor defiende",
+        "El resumen de los libros consultados",
+        "La lista de los personajes de la obra",
+        "El título creativo del documento"
+      ],
+      "correct": 0,
+      "explanation": "Es el punto de vista u opinión principal que articula todo el ensayo."
+    },
+    {
+      "id": "lc_pro_28",
+      "icon": "✍️",
+      "text": "Un texto discontinuo es aquel que:",
+      "options": [
+        "Combina texto con elementos gráficos (tablas, mapas, etc.)",
+        "Está mal escrito y no se entiende",
+        "Tiene muchas notas al pie de página",
+        "Fue escrito en diferentes épocas"
+      ],
+      "correct": 0,
+      "explanation": "Requiere una lectura no lineal para integrar la información visual y textual."
+    },
+    {
+      "id": "lc_pro_29",
+      "icon": "📖",
+      "text": "La cohesión textual se refiere a:",
+      "options": [
+        "El uso correcto de conectores y gramática",
+        "La belleza de las imágenes poéticas",
+        "La cantidad de páginas del manuscrito",
+        "La relación del texto con otros libros"
+      ],
+      "correct": 0,
+      "explanation": "Es la propiedad gramatical que permite que las frases estén bien unidas entre sí."
+    },
+    {
+      "id": "lc_pro_30",
+      "icon": "✍️",
+      "text": "Si un autor apela a los sentimientos de culpa del lector, usa una estrategia:",
+      "options": [
+        "Emotiva",
+        "Racional",
+        "Estadística",
+        "Narrativa"
+      ],
+      "correct": 0,
+      "explanation": "Busca persuadir moviendo las emociones en lugar de la lógica pura."
+    },
+    {
+      "id": "lc_pro_31",
+      "icon": "📖",
+      "text": "El 'intertexto' ocurre cuando:",
+      "options": [
+        "Un texto hace referencia explícita o implícita a otro",
+        "Se traduce un libro de un idioma a otro",
+        "Un autor escribe bajo un seudónimo",
+        "Se imprime el libro en papel reciclado"
+      ],
+      "correct": 0,
+      "explanation": "Es el diálogo entre textos; ninguna obra nace en el vacío absoluto."
+    },
+    {
+      "id": "lc_pro_32",
+      "icon": "✍️",
+      "text": "¿Qué función cumple el contraargumento en un debate?",
+      "options": [
+        "Refutar una idea opuesta para fortalecer la propia",
+        "Darle la razón al oponente por cortesía",
+        "Cambiar de tema cuando no se sabe qué decir",
+        "Repetir la tesis con palabras más bonitas"
+      ],
+      "correct": 0,
+      "explanation": "Sirve para anticipar y neutralizar las objeciones que puedan surgir."
+    },
+    {
+      "id": "lc_pro_33",
+      "icon": "📖",
+      "text": "El punto de vista en primera persona hace que el texto sea más:",
+      "options": [
+        "Subjetivo y cercano",
+        "Objetivo y distante",
+        "Científico y riguroso",
+        "Ficticio y aburrido"
+      ],
+      "correct": 0,
+      "explanation": "Al narrar desde el 'yo', la percepción está filtrada por las emociones del narrador."
+    },
+    {
+      "id": "lc_pro_34",
+      "icon": "✍️",
+      "text": "¿Cuál es el objetivo de un resumen?",
+      "options": [
+        "Sintetizar las ideas principales de forma breve",
+        "Añadir críticas personales al contenido",
+        "Expandir el texto original con más datos",
+        "Cambiar la intención del autor original"
+      ],
+      "correct": 0,
+      "explanation": "Busca preservar lo esencial del texto de manera condensada."
+    },
+    {
+      "id": "lc_pro_35",
+      "icon": "📖",
+      "text": "En un texto, la 'idea principal' suele ser:",
+      "options": [
+        "Aquella que da sentido global al párrafo",
+        "La que aparece siempre al primer renglón",
+        "La que tiene mayor número de adjetivos",
+        "La que menciona nombres de famosos"
+      ],
+      "correct": 0,
+      "explanation": "Es el núcleo informativo; si se quita, el texto pierde su coherencia básica."
+    },
+    {
+      "id": "lc_pro_36",
+      "icon": "✍️",
+      "text": "El uso de paréntesis suele servir para:",
+      "options": [
+        "Insertar información aclaratoria o complementaria",
+        "Indicar que el autor está gritando",
+        "Separar párrafos de diferentes temas",
+        "Finalizar la escritura de un texto"
+      ],
+      "correct": 0,
+      "explanation": "Añaden datos que, aunque útiles, no son estructurales para la oración principal."
+    },
+    {
+      "id": "lc_pro_37",
+      "icon": "📖",
+      "text": "La parodia es una forma de intertextualidad que busca:",
+      "options": [
+        "Imitar un estilo con fines humorísticos o críticos",
+        "Copiar exactamente una obra para venderla",
+        "Homenajear de forma solemne a un autor",
+        "Traducir un texto de forma literal"
+      ],
+      "correct": 0,
+      "explanation": "Usa la estructura de una obra original para crear un efecto cómico o de burla."
+    },
+    {
+      "id": "lc_pro_38",
+      "icon": "✍️",
+      "text": "Un texto instructivo tiene como función:",
+      "options": [
+        "Guiar al lector para realizar una acción específica",
+        "Contar una leyenda de un pueblo antiguo",
+        "Expresar los sentimientos del autor",
+        "Debatirse entre dos posturas políticas"
+      ],
+      "correct": 0,
+      "explanation": "Como las recetas o manuales; su meta es el cumplimiento de pasos."
+    },
+    {
+      "id": "lc_pro_39",
+      "icon": "📖",
+      "text": "El contexto histórico de un texto permite:",
+      "options": [
+        "Comprender las causas y situaciones que influyeron en el autor",
+        "Saber el precio comercial del libro actualmente",
+        "Identificar el tipo de fuente (tipografía) usada",
+        "Conocer el peso exacto del libro en gramos"
+      ],
+      "correct": 0,
+      "explanation": "Ningún texto es ajeno a las circunstancias sociales y temporales de su creación."
+    },
+    {
+      "id": "lc_pro_40",
+      "icon": "✍️",
+      "text": "¿Qué se busca en el nivel de lectura 'inferencial'?",
+      "options": [
+        "Deducir conclusiones no dichas basándose en pistas del texto",
+        "Identificar los nombres de los personajes principales",
+        "Memorizar las fechas que aparecen en el escrito",
+        "Contar el número total de palabras del texto"
+      ],
+      "correct": 0,
+      "explanation": "Es el nivel que conecta los datos explícitos para descubrir lo oculto o sugerido."
+    }
+  ],
+  "Sociales y Ciudadanas": [
+    {
+      "id": "soc_pro_1",
+      "icon": "🌍",
+      "text": "La Constitución de 1991 en Colombia define al Estado como Social de Derecho. Esto implica que la prioridad del Estado es:",
+      "options": [
+        "Garantizar los derechos fundamentales y la dignidad humana",
+        "Maximizar la recaudación de impuestos",
+        "Asegurar el crecimiento de las empresas privadas únicamente",
+        "Centralizar todo el poder en el Ejecutivo"
+      ],
+      "correct": 0,
+      "explanation": "Un Estado Social de Derecho busca la justicia social y el bienestar común, no solo la aplicación fría de la ley."
+    },
+    {
+      "id": "soc_pro_2",
+      "icon": "⚖️",
+      "text": "¿Cuál es el mecanismo de participación ciudadana que permite a los ciudadanos decidir sobre la destitución de un alcalde o gobernador?",
+      "options": [
+        "Revocatoria del mandato",
+        "Referendo legislativo",
+        "Plebiscito nacional",
+        "Cabildo abierto"
+      ],
+      "correct": 0,
+      "explanation": "La revocatoria es un derecho político por el cual se da por terminado el mandato conferido por el pueblo."
+    },
+    {
+      "id": "soc_pro_3",
+      "icon": "🗳️",
+      "text": "Un ciudadano considera que una ley aprobada por el Congreso vulnera la Constitución. El mecanismo judicial para demandar dicha ley es:",
+      "options": [
+        "Acción de inexequibilidad",
+        "Acción de tutela",
+        "Acción popular",
+        "Acción de cumplimiento"
+      ],
+      "correct": 0,
+      "explanation": "La demanda de inconstitucionalidad o acción de inexequibilidad busca que la Corte Constitucional retire las leyes que contradicen la Carta Magna."
+    },
+    {
+      "id": "soc_pro_4",
+      "icon": "🌍",
+      "text": "El conflicto armado en Colombia ha tenido un fuerte impacto en la propiedad de la tierra. La ley que busca devolver tierras a las víctimas es:",
+      "options": [
+        "Ley 1448 de 2011 (Ley de Víctimas)",
+        "Ley 100 de 1993",
+        "Constitución de 1886",
+        "Ley de Infancia y Adolescencia"
+      ],
+      "correct": 0,
+      "explanation": "La Ley 1448 establece medidas de reparación integral, incluyendo la restitución de tierras despojadas."
+    },
+    {
+      "id": "soc_pro_5",
+      "icon": "⚖️",
+      "text": "¿Qué rama del poder público en Colombia se encarga de administrar justicia y resolver conflictos entre ciudadanos?",
+      "options": [
+        "Rama Judicial",
+        "Rama Legislativa",
+        "Rama Ejecutiva",
+        "Órganos de Control"
+      ],
+      "correct": 0,
+      "explanation": "La Rama Judicial velar por el cumplimiento de las leyes y protege los derechos de los habitantes."
+    },
+    {
+      "id": "soc_pro_6",
+      "icon": "🗳️",
+      "text": "En un sistema democrático, el principio de 'Separación de Poderes' tiene como fin principal:",
+      "options": [
+        "Evitar la concentración de poder y el autoritarismo",
+        "Hacer que el gobierno sea más lento",
+        "Dividir el país en diferentes naciones",
+        "Que cada funcionario gane un sueldo distinto"
+      ],
+      "correct": 0,
+      "explanation": "La división en Ejecutivo, Legislativo y Judicial permite el control mutuo (pesos y contrapesos)."
+    },
+    {
+      "id": "soc_pro_7",
+      "icon": "🌍",
+      "text": "La 'Globalización' económica se caracteriza principalmente por:",
+      "options": [
+        "La interdependencia de mercados y el flujo de capitales",
+        "El cierre de fronteras al comercio exterior",
+        "La prohibición del uso de internet en los bancos",
+        "El retorno al trueque en las zonas rurales"
+      ],
+      "correct": 0,
+      "explanation": "Implica la integración de las economías nacionales en un sistema global interconectado."
+    },
+    {
+      "id": "soc_pro_8",
+      "icon": "⚖️",
+      "text": "Si una empresa arroja desechos químicos a un río afectando la salud de una comunidad, los ciudadanos pueden interponer una:",
+      "options": [
+        "Acción Popular",
+        "Acción de Tutela individual",
+        "Derecho de petición informativo",
+        "Revocatoria del mandato"
+      ],
+      "correct": 0,
+      "explanation": "La Acción Popular protege los derechos colectivos, como el medio ambiente sano."
+    },
+    {
+      "id": "soc_pro_9",
+      "icon": "🗳️",
+      "text": "¿Cuál es la función principal del Banco de la República en Colombia?",
+      "options": [
+        "Controlar la inflación y emitir la moneda legal",
+        "Administrar las cárceles del país",
+        "Elegir al Presidente de la República",
+        "Construir carreteras nacionales"
+      ],
+      "correct": 0,
+      "explanation": "Es la autoridad monetaria, cambiaria y crediticia independiente del gobierno."
+    },
+    {
+      "id": "soc_pro_10",
+      "icon": "🌍",
+      "text": "El desplazamiento forzado en Colombia se define como la situación donde personas:",
+      "options": [
+        "Deben abandonar sus hogares por violencia o amenazas",
+        "Deciden mudarse a otra ciudad por mejor clima",
+        "Viajan al exterior por estudios superiores",
+        "Son contratadas para trabajar en otra región"
+      ],
+      "correct": 0,
+      "explanation": "El componente clave es la coacción o violencia que obliga a la migración interna."
+    },
+    {
+      "id": "soc_pro_11",
+      "icon": "⚖️",
+      "text": "La 'Soberanía Popular' significa que el poder supremo en un Estado reside en:",
+      "options": [
+        "El Pueblo",
+        "El Rey",
+        "El Ejército",
+        "Los Partidos Políticos"
+      ],
+      "correct": 0,
+      "explanation": "Es el derecho del pueblo a autogobernarse y elegir a sus representantes."
+    },
+    {
+      "id": "soc_pro_12",
+      "icon": "🗳️",
+      "text": "¿Cuál de estos es un derecho de 'Segunda Generación' (Económicos, Sociales y Culturales)?",
+      "options": [
+        "Derecho a la educación",
+        "Derecho a la vida",
+        "Derecho al voto",
+        "Derecho a la libertad de expresión"
+      ],
+      "correct": 0,
+      "explanation": "Los derechos de 2da generación buscan garantizar condiciones de vida dignas."
+    },
+    {
+      "id": "soc_pro_13",
+      "icon": "🌍",
+      "text": "El fenómeno del 'Caudillismo' en la historia de América Latina se refiere a:",
+      "options": [
+        "Líderes carismáticos que ejercían gran poder personalista",
+        "Un sistema de riego agrícola avanzado",
+        "La exportación masiva de caucho",
+        "El estudio de las estrellas por los indígenas"
+      ],
+      "correct": 0,
+      "explanation": "Eran figuras fuertes que surgieron tras las independencias, a menudo con bases militares."
+    },
+    {
+      "id": "soc_pro_14",
+      "icon": "⚖️",
+      "text": "La tutela contra sentencias judiciales es excepcional y procede solo cuando se vulnera el:",
+      "options": [
+        "Debido Proceso",
+        "Derecho a la huelga",
+        "Derecho a la propiedad privada",
+        "Derecho al libre desarrollo de la personalidad"
+      ],
+      "correct": 0,
+      "explanation": "Se aplica si el juez cometió un error flagrante (vía de hecho) que afecta derechos fundamentales."
+    },
+    {
+      "id": "soc_pro_15",
+      "icon": "🗳️",
+      "text": "El Congreso de la República de Colombia es bicameral. Esto significa que está compuesto por:",
+      "options": [
+        "Senado y Cámara de Representantes",
+        "Asambleas y Concejos",
+        "Ministros y Viceministros",
+        "Jueces y Magistrados"
+      ],
+      "correct": 0,
+      "explanation": "Ambas corporaciones legislan y ejercen control político sobre el gobierno."
+    },
+    {
+      "id": "soc_pro_16",
+      "icon": "🌍",
+      "text": "La Revolución Francesa fue un hito histórico que promovió los ideales de:",
+      "options": [
+        "Libertad, Igualdad y Fraternidad",
+        "Orden, Paz y Progreso",
+        "Justicia, Verdad y Reparación",
+        "Fe, Esperanza y Caridad"
+      ],
+      "correct": 0,
+      "explanation": "Sentó las bases de los Derechos Humanos modernos y el fin de las monarquías absolutas."
+    },
+    {
+      "id": "soc_pro_17",
+      "icon": "⚖️",
+      "text": "¿Qué organismo de control en Colombia se encarga de vigilar la conducta oficial de los servidores públicos?",
+      "options": [
+        "Procuraduría General de la Nación",
+        "Contraloría General de la República",
+        "Fiscalía General de la Nación",
+        "Defensoría del Pueblo"
+      ],
+      "correct": 0,
+      "explanation": "Ejerce el poder disciplinario sobre los funcionarios del Estado."
+    },
+    {
+      "id": "soc_pro_18",
+      "icon": "🗳️",
+      "text": "El 'Sufragio Universal' implica que:",
+      "options": [
+        "Todos los ciudadanos adultos tienen derecho a votar sin discriminación",
+        "Solo los que saben leer y escribir pueden votar",
+        "Solo los hombres pueden elegir al presidente",
+        "Los votos de los ricos valen doble"
+      ],
+      "correct": 0,
+      "explanation": "Es un pilar de la democracia moderna que garantiza la igualdad política en el voto."
+    },
+    {
+      "id": "soc_pro_19",
+      "icon": "🌍",
+      "text": "La Organización de las Naciones Unidas (ONU) fue creada principalmente para:",
+      "options": [
+        "Mantener la paz y la seguridad internacional",
+        "Dominar el mundo militarmente",
+        "Crear una sola religión mundial",
+        "Eliminar todas las monedas nacionales"
+      ],
+      "correct": 0,
+      "explanation": "Fundada tras la 2da Guerra Mundial para prevenir nuevos conflictos de gran escala."
+    },
+    {
+      "id": "soc_pro_20",
+      "icon": "⚖️",
+      "text": "Un ciudadano desea saber cómo su entidad de salud (EPS) gasta los recursos públicos. El mecanismo para pedir esta información es:",
+      "options": [
+        "Derecho de Petición",
+        "Acción de Tutela",
+        "Hábeas Corpus",
+        "Revocatoria de mandato"
+      ],
+      "correct": 0,
+      "explanation": "Toda persona tiene derecho a elevar peticiones respetuosas a las autoridades y obtener respuesta rápida."
+    },
+    {
+      "id": "soc_pro_21",
+      "icon": "🌍",
+      "text": "¿Qué se entiende por 'Desarrollo Sostenible'?",
+      "options": [
+        "Satisfacer necesidades actuales sin comprometer a las futuras generaciones",
+        "Explotar todos los recursos naturales lo más rápido posible",
+        "Detener todo el crecimiento económico mundial",
+        "Usar solo energía producida a base de carbón"
+      ],
+      "correct": 0,
+      "explanation": "Busca el equilibrio entre crecimiento económico, cuidado ambiental y bienestar social."
+    },
+    {
+      "id": "soc_pro_22",
+      "icon": "⚖️",
+      "text": "El 'Hábeas Corpus' es una acción pública que protege el derecho a:",
+      "options": [
+        "La libertad física (contra detenciones ilegales)",
+        "La propiedad privada de bienes raíces",
+        "La libertad de cultos y religión",
+        "El acceso a la salud y medicamentos"
+      ],
+      "correct": 0,
+      "explanation": "Garantiza que una persona detenida sea llevada ante un juez en máximo 36 horas para verificar la legalidad de la captura."
+    },
+    {
+      "id": "soc_pro_23",
+      "icon": "🗳️",
+      "text": "¿Cuál es la función de la Corte Constitucional?",
+      "options": [
+        "Vigilar la integridad y supremacía de la Constitución",
+        "Juzgar delitos comunes de asesinato y robo",
+        "Administrar el presupuesto de la Presidencia",
+        "Organizar las elecciones regionales"
+      ],
+      "correct": 0,
+      "explanation": "Es la 'guardiana' de la Constitución, revisa leyes y decretos de emergencia."
+    },
+    {
+      "id": "soc_pro_24",
+      "icon": "🌍",
+      "text": "La Gran Depresión de 1929 comenzó con la caída de la bolsa de:",
+      "options": [
+        "Nueva York (Wall Street)",
+        "Londres",
+        "París",
+        "Tokio"
+      ],
+      "correct": 0,
+      "explanation": "Fue una crisis económica mundial que duró toda la década de 1930."
+    },
+    {
+      "id": "soc_pro_25",
+      "icon": "⚖️",
+      "text": "Un 'Estado Laico' es aquel que:",
+      "options": [
+        "Es independiente de cualquier organización o confesión religiosa",
+        "Prohíbe la práctica de cualquier religión",
+        "Tiene como religión oficial la católica",
+        "Es gobernado exclusivamente por sacerdotes"
+      ],
+      "correct": 0,
+      "explanation": "Garantiza la libertad de cultos y la neutralidad del Estado frente a ellos."
+    },
+    {
+      "id": "soc_pro_26",
+      "icon": "🗳️",
+      "text": "El poder ejecutivo a nivel municipal es ejercido por:",
+      "options": [
+        "El Alcalde",
+        "El Gobernador",
+        "El Presidente",
+        "El Concejal"
+      ],
+      "correct": 0,
+      "explanation": "El Alcalde es la máxima autoridad administrativa del municipio."
+    },
+    {
+      "id": "soc_pro_27",
+      "icon": "🌍",
+      "text": "La 'Guerra Fría' fue un enfrentamiento ideológico y político principalmente entre:",
+      "options": [
+        "Estados Unidos y la Unión Soviética",
+        "China y Japón",
+        "Alemania y Francia",
+        "Colombia y Venezuela"
+      ],
+      "correct": 0,
+      "explanation": "Dividió al mundo en dos bloques: Capitalista y Socialista, de 1947 a 1991."
+    },
+    {
+      "id": "soc_pro_28",
+      "icon": "⚖️",
+      "text": "¿En qué caso se puede interponer una Acción de Tutela contra un particular?",
+      "options": [
+        "Cuando el particular presta un servicio público o hay subordinación",
+        "Cuando un vecino hace mucho ruido en una fiesta",
+        "Cuando no me devuelven un dinero prestado",
+        "Nunca, la tutela solo es contra el Estado"
+      ],
+      "correct": 0,
+      "explanation": "Procede si hay una relación de poder (ej: patrón-empleado, banco-cliente) o servicio esencial."
+    },
+    {
+      "id": "soc_pro_29",
+      "icon": "🗳️",
+      "text": "La Registraduría Nacional del Estado Civil tiene como fin:",
+      "options": [
+        "Organizar las elecciones y la identificación de las personas",
+        "Recaudar los impuestos nacionales (DIAN)",
+        "Investigar crímenes de lesa humanidad",
+        "Proteger las fronteras terrestres"
+      ],
+      "correct": 0,
+      "explanation": "Es la encargada de la logística electoral y el registro civil de los ciudadanos."
+    },
+    {
+      "id": "soc_pro_30",
+      "icon": "🌍",
+      "text": "El Apartheid fue un sistema de segregación racial que existió en:",
+      "options": [
+        "Sudáfrica",
+        "Estados Unidos",
+        "Brasil",
+        "India"
+      ],
+      "correct": 0,
+      "explanation": "Fue un régimen de minoría blanca que oprimía a la mayoría negra, finalizado en 1994 con Nelson Mandela."
+    },
+    {
+      "id": "soc_pro_31",
+      "icon": "⚖️",
+      "text": "La pluriculturalidad en la Constitución de 1991 reconoce que:",
+      "options": [
+        "En el país conviven diversas etnias y culturas con iguales derechos",
+        "Todos los ciudadanos deben vestir y hablar igual",
+        "Las lenguas indígenas no tienen validez legal",
+        "Solo la cultura occidental es válida para el progreso"
+      ],
+      "correct": 0,
+      "explanation": "Colombia se reconoce como nación pluriétnica y multicultural."
+    },
+    {
+      "id": "soc_pro_32",
+      "icon": "🗳️",
+      "text": "¿Cuál es la edad mínima en Colombia para elegir y ser elegido en votaciones populares?",
+      "options": [
+        "18 años",
+        "21 años",
+        "16 años",
+        "25 años"
+      ],
+      "correct": 0,
+      "explanation": "A los 18 años se adquiere la ciudadanía y el derecho al voto."
+    },
+    {
+      "id": "soc_pro_33",
+      "icon": "🌍",
+      "text": "El neoliberalismo económico propone principalmente:",
+      "options": [
+        "La reducción de la intervención del Estado en la economía",
+        "Que el Estado controle todos los medios de producción",
+        "La eliminación total de la propiedad privada",
+        "Subsidiar todos los productos de consumo básico"
+      ],
+      "correct": 0,
+      "explanation": "Promueve el libre mercado, la privatización y la desregulación."
+    },
+    {
+      "id": "soc_pro_34",
+      "icon": "⚖️",
+      "text": "Un 'Estado Fallido' es aquel que:",
+      "options": [
+        "No puede garantizar el orden ni los servicios básicos a su población",
+        "Pierde un partido de fútbol internacional",
+        "No está de acuerdo con las leyes de otros países",
+        "Cambia su presidente cada 4 años"
+      ],
+      "correct": 0,
+      "explanation": "Ocurre cuando el gobierno pierde el control del territorio o el monopolio de la fuerza."
+    },
+    {
+      "id": "soc_pro_35",
+      "icon": "🗳️",
+      "text": "El voto en Colombia es un derecho y un deber, pero no es obligatorio. Esto significa que:",
+      "options": [
+        "El ciudadano decide libremente si asiste a las urnas",
+        "Votar es pecado en algunas regiones",
+        "No votar acarrea multas económicas",
+        "Solo pueden votar quienes paguen el impuesto al voto"
+      ],
+      "correct": 0,
+      "explanation": "Es libre, a diferencia de países como Brasil o Argentina donde es obligatorio."
+    },
+    {
+      "id": "soc_pro_36",
+      "icon": "🌍",
+      "text": "La 'Ruta de la Seda' en la antigüedad conectaba comercialmente a:",
+      "options": [
+        "China con Europa",
+        "América con África",
+        "Australia con La Antártida",
+        "Egipto con El Congo"
+      ],
+      "correct": 0,
+      "explanation": "Fue una red de rutas comerciales vital para el intercambio cultural y económico."
+    },
+    {
+      "id": "soc_pro_37",
+      "icon": "⚖️",
+      "text": "La Defensoría del Pueblo tiene como misión primordial:",
+      "options": [
+        "Promover y proteger los Derechos Humanos de los ciudadanos",
+        "Defender al Presidente en juicios internacionales",
+        "Controlar el precio de la canasta familiar",
+        "Vigilar que no se robe el dinero de las obras públicas"
+      ],
+      "correct": 0,
+      "explanation": "Forma parte del Ministerio Público y es la 'voz' de los ciudadanos ante abusos del poder."
+    },
+    {
+      "id": "soc_pro_38",
+      "icon": "🗳️",
+      "text": "¿Qué es un Cabildo Abierto?",
+      "options": [
+        "Una reunión pública de los concejos para discutir temas de interés local",
+        "Una fiesta popular organizada por el alcalde",
+        "Un secreto que se cuenta a todo el pueblo",
+        "Un tipo de edificio gubernamental sin puertas"
+      ],
+      "correct": 0,
+      "explanation": "Es un mecanismo de participación donde los ciudadanos proponen temas directamente a sus concejales o diputados."
+    },
+    {
+      "id": "soc_pro_39",
+      "icon": "🌍",
+      "text": "La Revolución Industrial comenzó en el siglo XVIII en:",
+      "options": [
+        "Inglaterra",
+        "Estados Unidos",
+        "España",
+        "Rumania"
+      ],
+      "correct": 0,
+      "explanation": "Transformó la producción manual en mecánica, cambiando la sociedad para siempre."
+    },
+    {
+      "id": "soc_pro_40",
+      "icon": "⚖️",
+      "text": "¿Qué derecho protege el Hábeas Data?",
+      "options": [
+        "Conocer, actualizar y rectificar información en bases de datos",
+        "Poder caminar libremente por el espacio público",
+        "Tener una vivienda digna con servicios públicos",
+        "Acceder a internet de alta velocidad gratis"
+      ],
+      "correct": 0,
+      "explanation": "Es el derecho constitucional a la autodeterminación informática."
+    }
+  ],
+  "Inglés": [
+    {
+      "id": "eng_pro_1",
+      "icon": "🇬🇧",
+      "text": "If she ________ more time, she would travel around the world.",
+      "options": [
+        "had",
+        "has",
+        "have",
+        "would have"
+      ],
+      "correct": 0,
+      "explanation": "This is the second conditional (hypothetical). Structure: If + past simple, would + verb."
+    },
+    {
+      "id": "eng_pro_2",
+      "icon": "🇬🇧",
+      "text": "Choose the correct sentence:",
+      "options": [
+        "I have been living here for five years.",
+        "I am living here since five years.",
+        "I lived here for five years ago.",
+        "I have live here five years."
+      ],
+      "correct": 0,
+      "explanation": "Present perfect continuous is used for actions starting in the past and continuing up to now."
+    },
+    {
+      "id": "eng_pro_3",
+      "icon": "🇬🇧",
+      "text": "What is the synonym of 'HUGE'?",
+      "options": [
+        "Enormous",
+        "Tiny",
+        "Fragile",
+        "Expensive"
+      ],
+      "correct": 0,
+      "explanation": "'Huge' and 'enormous' both mean very large."
+    },
+    {
+      "id": "eng_pro_4",
+      "icon": "🇬🇧",
+      "text": "You ________ smoke in hospitals. It is forbidden.",
+      "options": [
+        "mustn't",
+        "don't have to",
+        "shouldn't",
+        "might not"
+      ],
+      "correct": 0,
+      "explanation": "'Mustn't' indicates a strong prohibition."
+    },
+    {
+      "id": "eng_pro_5",
+      "icon": "🇬🇧",
+      "text": "The book ________ by Gabriel García Márquez in 1967.",
+      "options": [
+        "was written",
+        "wrote",
+        "is written",
+        "has written"
+      ],
+      "correct": 0,
+      "explanation": "Passive voice in past simple: was/were + past participle."
+    },
+    {
+      "id": "eng_pro_6",
+      "icon": "🇬🇧",
+      "text": "I was walking to school when I ________ my best friend.",
+      "options": [
+        "met",
+        "meet",
+        "was meeting",
+        "had met"
+      ],
+      "correct": 0,
+      "explanation": "Past continuous (was walking) is interrupted by a sudden past simple action (met)."
+    },
+    {
+      "id": "eng_pro_7",
+      "icon": "🇬🇧",
+      "text": "Choose the best connector: '________ it was raining, they decided to go for a run.'",
+      "options": [
+        "Although",
+        "Because",
+        "Therefore",
+        "In addition"
+      ],
+      "correct": 0,
+      "explanation": "'Although' is used to show contrast or concession."
+    },
+    {
+      "id": "eng_pro_8",
+      "icon": "🇬🇧",
+      "text": "The test was ________ than the previous one.",
+      "options": [
+        "easier",
+        "more easy",
+        "easiest",
+        "as easy"
+      ],
+      "correct": 0,
+      "explanation": "Comparative of short adjectives: add -er (easy -> easier)."
+    },
+    {
+      "id": "eng_pro_9",
+      "icon": "🇬🇧",
+      "text": "He is the person ________ won the lottery last year.",
+      "options": [
+        "who",
+        "which",
+        "whose",
+        "whom"
+      ],
+      "correct": 0,
+      "explanation": "Relative pronoun 'who' is used for people."
+    },
+    {
+      "id": "eng_pro_10",
+      "icon": "🇬🇧",
+      "text": "I'm looking forward ________ you soon.",
+      "options": [
+        "to seeing",
+        "to see",
+        "seeing",
+        "see"
+      ],
+      "correct": 0,
+      "explanation": "The phrase 'look forward to' is followed by -ing form (gerund)."
+    },
+    {
+      "id": "eng_pro_11",
+      "icon": "🇬🇧",
+      "text": "Where ________ yesterday at 5 PM?",
+      "options": [
+        "were you",
+        "did you be",
+        "are you",
+        "was you"
+      ],
+      "correct": 0,
+      "explanation": "Past simple of 'to be' for 'you' is 'were'."
+    },
+    {
+      "id": "eng_pro_12",
+      "icon": "🇬🇧",
+      "text": "By the time I arrived, the movie ________.",
+      "options": [
+        "had already started",
+        "already started",
+        "was already starting",
+        "has already started"
+      ],
+      "correct": 0,
+      "explanation": "Past perfect is used for an action completed before another past action."
+    },
+    {
+      "id": "eng_pro_13",
+      "icon": "🇬🇧",
+      "text": "I haven't seen him ________ last summer.",
+      "options": [
+        "since",
+        "for",
+        "during",
+        "until"
+      ],
+      "correct": 0,
+      "explanation": "'Since' indicates a specific point in time in the past."
+    },
+    {
+      "id": "eng_pro_14",
+      "icon": "🇬🇧",
+      "text": "If I ________ rich, I would buy a mansion.",
+      "options": [
+        "were",
+        "was",
+        "am",
+        "be"
+      ],
+      "correct": 0,
+      "explanation": "In 2nd conditional, 'were' is used for all persons including 'I'."
+    },
+    {
+      "id": "eng_pro_15",
+      "icon": "🇬🇧",
+      "text": "I ________ my keys. Have you seen them?",
+      "options": [
+        "have lost",
+        "lost",
+        "am losing",
+        "had lost"
+      ],
+      "correct": 0,
+      "explanation": "Present perfect is used for recent actions with current results."
+    },
+    {
+      "id": "eng_pro_16",
+      "icon": "🇬🇧",
+      "text": "She ________ speaks three languages fluently.",
+      "options": [
+        "already",
+        "yet",
+        "still",
+        "just"
+      ],
+      "correct": 0,
+      "explanation": "'Already' suggests something happened sooner than expected."
+    },
+    {
+      "id": "eng_pro_17",
+      "icon": "🇬🇧",
+      "text": "You should ________ more water every day.",
+      "options": [
+        "drink",
+        "drinks",
+        "drinking",
+        "drank"
+      ],
+      "correct": 0,
+      "explanation": "Modal verbs (should, can, must) are followed by the base form of the verb."
+    },
+    {
+      "id": "eng_pro_18",
+      "icon": "🇬🇧",
+      "text": "The weather is ________ today than it was yesterday.",
+      "options": [
+        "worse",
+        "more bad",
+        "badder",
+        "worst"
+      ],
+      "correct": 0,
+      "explanation": "Irregular comparative: bad -> worse."
+    },
+    {
+      "id": "eng_pro_19",
+      "icon": "🇬🇧",
+      "text": "I ________ French for three years now.",
+      "options": [
+        "have been studying",
+        "was studying",
+        "am studying",
+        "studied"
+      ],
+      "correct": 0,
+      "explanation": "Present perfect continuous for actions that started in the past and continue."
+    },
+    {
+      "id": "eng_pro_20",
+      "icon": "🇬🇧",
+      "text": "Whose car is this? It's ________.",
+      "options": [
+        "mine",
+        "my",
+        "me",
+        "I"
+      ],
+      "correct": 0,
+      "explanation": "Possessive pronoun 'mine' replaces 'my car'."
+    },
+    {
+      "id": "eng_pro_21",
+      "icon": "🇬🇧",
+      "text": "I ________ go to the party, but I'm not sure yet.",
+      "options": [
+        "might",
+        "must",
+        "should",
+        "have to"
+      ],
+      "correct": 0,
+      "explanation": "'Might' expresses possibility."
+    },
+    {
+      "id": "eng_pro_22",
+      "icon": "🇬🇧",
+      "text": "They ________ soccer when it started to hail.",
+      "options": [
+        "were playing",
+        "played",
+        "was playing",
+        "have played"
+      ],
+      "correct": 0,
+      "explanation": "Interrupted past action."
+    },
+    {
+      "id": "eng_pro_23",
+      "icon": "🇬🇧",
+      "text": "This is the ________ movie I have ever seen.",
+      "options": [
+        "most interesting",
+        "more interesting",
+        "interesantest",
+        "as interesting"
+      ],
+      "correct": 0,
+      "explanation": "Superlative of long adjectives: most + adjective."
+    },
+    {
+      "id": "eng_pro_24",
+      "icon": "🇬🇧",
+      "text": "She doesn't like pizza, ________?",
+      "options": [
+        "does she",
+        "doesn't she",
+        "is she",
+        "do she"
+      ],
+      "correct": 0,
+      "explanation": "Question tag for negative sentence uses the positive auxiliary."
+    },
+    {
+      "id": "eng_pro_25",
+      "icon": "🇬🇧",
+      "text": "I am interested ________ learning about new cultures.",
+      "options": [
+        "in",
+        "at",
+        "on",
+        "about"
+      ],
+      "correct": 0,
+      "explanation": "Correct preposition after 'interested' is 'in'."
+    },
+    {
+      "id": "eng_pro_26",
+      "icon": "🇬🇧",
+      "text": "He ________ up very early every morning.",
+      "options": [
+        "gets",
+        "get",
+        "got",
+        "getting"
+      ],
+      "correct": 0,
+      "explanation": "Present simple for habits (3rd person singular)."
+    },
+    {
+      "id": "eng_pro_27",
+      "icon": "🇬🇧",
+      "text": "We ________ to London next week.",
+      "options": [
+        "are flying",
+        "fly",
+        "have flown",
+        "will be fly"
+      ],
+      "correct": 0,
+      "explanation": "Present continuous is often used for fixed future plans."
+    },
+    {
+      "id": "eng_pro_28",
+      "icon": "🇬🇧",
+      "text": "The keys are ________ the table.",
+      "options": [
+        "on",
+        "at",
+        "in",
+        "with"
+      ],
+      "correct": 0,
+      "explanation": "Preposition of place 'on' for surfaces."
+    },
+    {
+      "id": "eng_pro_29",
+      "icon": "🇬🇧",
+      "text": "He is ________ at mathematics than I am.",
+      "options": [
+        "better",
+        "gooder",
+        "best",
+        "more good"
+      ],
+      "correct": 0,
+      "explanation": "Irregular comparative: good -> better."
+    },
+    {
+      "id": "eng_pro_30",
+      "icon": "🇬🇧",
+      "text": "What ________ you do if you saw a ghost?",
+      "options": [
+        "would",
+        "will",
+        "shall",
+        "can"
+      ],
+      "correct": 0,
+      "explanation": "Second conditional question."
+    },
+    {
+      "id": "eng_pro_31",
+      "icon": "🇬🇧",
+      "text": "I can't find my phone ________.",
+      "options": [
+        "anywhere",
+        "somewhere",
+        "nowhere",
+        "everywhere"
+      ],
+      "correct": 0,
+      "explanation": "'Anywhere' is used in negative sentences."
+    },
+    {
+      "id": "eng_pro_32",
+      "icon": "🇬🇧",
+      "text": "She has ________ information about the project.",
+      "options": [
+        "some",
+        "any",
+        "an",
+        "many"
+      ],
+      "correct": 0,
+      "explanation": "'Some' is used in positive sentences with uncountable nouns."
+    },
+    {
+      "id": "eng_pro_33",
+      "icon": "🇬🇧",
+      "text": "I have been waiting for ________ hour.",
+      "options": [
+        "an",
+        "a",
+        "some",
+        "the"
+      ],
+      "correct": 0,
+      "explanation": "'Hour' starts with a vowel sound (h is silent), so we use 'an'."
+    },
+    {
+      "id": "eng_pro_34",
+      "icon": "🇬🇧",
+      "text": "He ________ his homework before going to bed.",
+      "options": [
+        "did",
+        "done",
+        "does",
+        "do"
+      ],
+      "correct": 0,
+      "explanation": "Past simple action."
+    },
+    {
+      "id": "eng_pro_35",
+      "icon": "🇬🇧",
+      "text": "I ________ used to get up early when I was a child.",
+      "options": [
+        "didn't use to",
+        "not use to",
+        "don't use to",
+        "didn't used to"
+      ],
+      "correct": 0,
+      "explanation": "Correct negative form of 'used to' is 'didn't use to'."
+    },
+    {
+      "id": "eng_pro_36",
+      "icon": "🇬🇧",
+      "text": "This cake ________ delicious!",
+      "options": [
+        "tastes",
+        "is tasting",
+        "taste",
+        "has tasted"
+      ],
+      "correct": 0,
+      "explanation": "Stative verbs (like taste, smell, know) are usually in simple form."
+    },
+    {
+      "id": "eng_pro_37",
+      "icon": "🇬🇧",
+      "text": "I ________ my breakfast yet.",
+      "options": [
+        "haven't had",
+        "don't have",
+        "didn't have",
+        "wasn't having"
+      ],
+      "correct": 0,
+      "explanation": "Present perfect with 'yet' in negative."
+    },
+    {
+      "id": "eng_pro_38",
+      "icon": "🇬🇧",
+      "text": "She told me that she ________ to visit me soon.",
+      "options": [
+        "was going",
+        "is going",
+        "will",
+        "goes"
+      ],
+      "correct": 0,
+      "explanation": "Reported speech: 'am going to' becomes 'was going to'."
+    },
+    {
+      "id": "eng_pro_39",
+      "icon": "🇬🇧",
+      "text": "Can you tell me ________ the nearest bank is?",
+      "options": [
+        "where",
+        "when",
+        "whose",
+        "which"
+      ],
+      "correct": 0,
+      "explanation": "Place question."
+    },
+    {
+      "id": "eng_pro_40",
+      "icon": "🇬🇧",
+      "text": "Keep quiet! The baby ________.",
+      "options": [
+        "is sleeping",
+        "sleeps",
+        "slept",
+        "has slept"
+      ],
+      "correct": 0,
+      "explanation": "Action happening right now."
+    }
+  ],
+  "Ciencias Naturales": [
+    {
+      "id": "nat_pro_1",
+      "icon": "🔬",
+      "text": "En el proceso de fotosíntesis, las plantas convierten la energía lumínica en energía química. ¿Qué gas es liberado como subproducto de este proceso?",
+      "options": [
+        "Oxígeno (O₂)",
+        "Dióxido de Carbono (CO₂)",
+        "Nitrógeno (N₂)",
+        "Metano (CH₄)"
+      ],
+      "correct": 0,
+      "explanation": "Durante la fase luminosa, el agua se rompe (fotólisis) liberando electrones y oxígeno al ambiente."
+    },
+    {
+      "id": "nat_pro_2",
+      "icon": "🧪",
+      "text": "Un átomo tiene 6 protones, 6 electrones y 6 neutrones. ¿Cuál es su número másico (A)?",
+      "options": [
+        "12",
+        "6",
+        "18",
+        "0"
+      ],
+      "correct": 0,
+      "explanation": "El número másico A es la suma de protones (Z) y neutrones (N). 6 + 6 = 12."
+    },
+    {
+      "id": "nat_pro_3",
+      "icon": "⚡",
+      "text": "Según la Segunda Ley de Newton, si se aplica la misma fuerza a dos objetos de diferente masa, el objeto con mayor masa tendrá:",
+      "options": [
+        "Menor aceleración",
+        "Mayor aceleración",
+        "La misma aceleración",
+        "Velocidad constante"
+      ],
+      "correct": 0,
+      "explanation": "F = m × a. Si F es constante, la masa m y la aceleración a son inversamente proporcionales."
+    },
+    {
+      "id": "nat_pro_4",
+      "icon": "🔬",
+      "text": "La mitosis es un tipo de división celular que tiene como resultado:",
+      "options": [
+        "Dos células hijas genéticamente idénticas a la madre",
+        "Cuatro células hijas con la mitad de cromosomas",
+        "Una sola célula con el doble de ADN",
+        "La formación de gametos (óvulos y espermatozoides)"
+      ],
+      "correct": 0,
+      "explanation": "La mitosis es para crecimiento y reparación, manteniendo el número diploide de cromosomas."
+    },
+    {
+      "id": "nat_pro_5",
+      "icon": "🧪",
+      "text": "Una solución con un pH de 3 se clasifica como:",
+      "options": [
+        "Ácida",
+        "Básica (Alcalina)",
+        "Neutra",
+        "Salina"
+      ],
+      "correct": 0,
+      "explanation": "El pH oscila de 0 a 14. Valores menores a 7 son ácidos, 7 es neutro y mayores a 7 son básicos."
+    },
+    {
+      "id": "nat_pro_6",
+      "icon": "⚡",
+      "text": "La energía que posee un objeto en virtud de su posición (altura) se denomina:",
+      "options": [
+        "Energía potencial gravitatoria",
+        "Energía cinética",
+        "Energía térmica",
+        "Energía nuclear"
+      ],
+      "correct": 0,
+      "explanation": "Ep = mgh. Depende de la masa, la gravedad y la altura."
+    },
+    {
+      "id": "nat_pro_7",
+      "icon": "🔬",
+      "text": "En una red trófica, ¿qué organismo ocupa siempre el primer nivel?",
+      "options": [
+        "Productores (Plantas)",
+        "Consumidores primarios",
+        "Descomponedores",
+        "Depredadores tope"
+      ],
+      "correct": 0,
+      "explanation": "Los productores transforman energía inorgánica en orgánica mediante la fotosíntesis."
+    },
+    {
+      "id": "nat_pro_8",
+      "icon": "🧪",
+      "text": "El enlace químico que se forma por la transferencia de electrones de un metal a un no metal se llama:",
+      "options": [
+        "Iónico",
+        "Covalente",
+        "Metálico",
+        "Puente de hidrógeno"
+      ],
+      "correct": 0,
+      "explanation": "Ocurre atracción electrostática entre iones de carga opuesta tras la transferencia."
+    },
+    {
+      "id": "nat_pro_9",
+      "icon": "⚡",
+      "text": "Un circuito eléctrico tiene una resistencia de 10 Ω y un voltaje de 20 V. Según la ley de Ohm, ¿cuál es la corriente?",
+      "options": [
+        "2 A",
+        "200 A",
+        "0.5 A",
+        "30 A"
+      ],
+      "correct": 0,
+      "explanation": "V = I × R → I = V / R = 20 / 10 = 2 Amperios."
+    },
+    {
+      "id": "nat_pro_10",
+      "icon": "🔬",
+      "text": "La teoría de la evolución por selección natural fue propuesta originalmente por:",
+      "options": [
+        "Charles Darwin",
+        "Gregor Mendel",
+        "Louis Pasteur",
+        "Jean-Baptiste Lamarck"
+      ],
+      "correct": 0,
+      "explanation": "Darwin planteó que los individuos mejor adaptados tienen más probabilidad de sobrevivir y reproducirse."
+    },
+    {
+      "id": "nat_pro_11",
+      "icon": "🧪",
+      "text": "El cambio de estado de sólido a gas sin pasar por líquido se llama:",
+      "options": [
+        "Sublimación",
+        "Evaporación",
+        "Condensación",
+        "Fusión"
+      ],
+      "correct": 0,
+      "explanation": "Ejemplos comunes son el hielo seco o la naftalina."
+    },
+    {
+      "id": "nat_pro_12",
+      "icon": "⚡",
+      "text": "La luz blanca, al pasar por un prisma, se descompone en colores debido al fenómeno de:",
+      "options": [
+        "Dispersión",
+        "Reflexión",
+        "Interferencia",
+        "Polarización"
+      ],
+      "correct": 0,
+      "explanation": "Diferentes longitudes de onda viajan a distinta velocidad en el medio, separándose."
+    },
+    {
+      "id": "nat_pro_13",
+      "icon": "🔬",
+      "text": "Las mitocondrias son orgánulos celulares cuya función principal es:",
+      "options": [
+        "La respiración celular y producción de ATP",
+        "La síntesis de proteínas",
+        "El almacenamiento de agua",
+        "La digestión de desechos"
+      ],
+      "correct": 0,
+      "explanation": "Son la 'central energética' de la célula."
+    },
+    {
+      "id": "nat_pro_14",
+      "icon": "🧪",
+      "text": "En una reacción exotérmica:",
+      "options": [
+        "Se libera energía en forma de calor",
+        "Se absorbe calor del entorno",
+        "La temperatura del sistema baja",
+        "No hay cambio de energía"
+      ],
+      "correct": 0,
+      "explanation": "Exo = hacia afuera; la entalpía de productos es menor a la de reactivos."
+    },
+    {
+      "id": "nat_pro_15",
+      "icon": "⚡",
+      "text": "La unidad de medida de la fuerza en el Sistema Internacional es el:",
+      "options": [
+        "Newton",
+        "Joule",
+        "Watt",
+        "Pascal"
+      ],
+      "correct": 0,
+      "explanation": "1 N = 1 kg·m/s²."
+    },
+    {
+      "id": "nat_pro_16",
+      "icon": "🔬",
+      "text": "Si una persona tiene el genotipo 'Aa' para un carácter, se dice que es:",
+      "options": [
+        "Heterocigota",
+        "Homocigota dominante",
+        "Homocigota recesivo",
+        "Haplodiploide"
+      ],
+      "correct": 0,
+      "explanation": "Tiene dos alelos diferentes para el mismo gen."
+    },
+    {
+      "id": "nat_pro_17",
+      "icon": "🧪",
+      "text": "El agua (H₂O) es considerada el 'solvente universal' debido a su:",
+      "options": [
+        "Polaridad",
+        "Color transparencia",
+        "Bajo punto de ebullición",
+        "Sabor neutro"
+      ],
+      "correct": 0,
+      "explanation": "Su naturaleza polar permite disolver una gran variedad de sustancias iónicas y polares."
+    },
+    {
+      "id": "nat_pro_18",
+      "icon": "⚡",
+      "text": "El calor se transmite en los metales principalmente por:",
+      "options": [
+        "Conducción",
+        "Convección",
+        "Radiación",
+        "Aislamiento"
+      ],
+      "correct": 0,
+      "explanation": "Se da por el choque de partículas en sólidos."
+    },
+    {
+      "id": "nat_pro_19",
+      "icon": "🔬",
+      "text": "¿Qué parte de la flor se convierte generalmente en fruto tras la fecundación?",
+      "options": [
+        "El ovario",
+        "Los pétalos",
+        "El polen",
+        "Las hojas"
+      ],
+      "correct": 0,
+      "explanation": "El óvulo se vuelve semilla y el ovario se desarrolla como fruto."
+    },
+    {
+      "id": "nat_pro_20",
+      "icon": "🧪",
+      "text": "Los carbohidratos están formados principalmente por estos elementos:",
+      "options": [
+        "C, H, O",
+        "N, P, S",
+        "Fe, Ca, Mg",
+        "Cl, Na, K"
+      ],
+      "correct": 0,
+      "explanation": "Carbono, Hidrógeno y Oxígeno (Azúcares)."
+    },
+    {
+      "id": "nat_pro_21",
+      "icon": "⚡",
+      "text": "La presión atmosférica disminuye con la altura debido a que:",
+      "options": [
+        "Hay menos aire encima ejerciendo peso",
+        "La gravedad es mayor",
+        "Hace más frío arriba",
+        "El aire es más húmedo"
+      ],
+      "correct": 0,
+      "explanation": "A mayor altura, la columna de aire sobre nosotros es menor."
+    },
+    {
+      "id": "nat_pro_22",
+      "icon": "🔬",
+      "text": "El sistema inmunológico se encarga de:",
+      "options": [
+        "Defender al organismo contra patógenos",
+        "Digerir los alimentos",
+        "Bombear sangre a los órganos",
+        "Secretar hormonas de crecimiento"
+      ],
+      "correct": 0,
+      "explanation": "Utiliza glóbulos blancos y anticuerpos para reconocer y atacar virus o bacterias."
+    },
+    {
+      "id": "nat_pro_23",
+      "icon": "🧪",
+      "text": "El gas más abundante en la atmósfera terrestre es el:",
+      "options": [
+        "Nitrógeno (78%)",
+        "Oxígeno (21%)",
+        "Dióxido de Carbono (0.04%)",
+        "Argón (0.9%)"
+      ],
+      "correct": 0,
+      "explanation": "El N₂ domina la composición del aire."
+    },
+    {
+      "id": "nat_pro_24",
+      "icon": "⚡",
+      "text": "El sonido es una onda de tipo:",
+      "options": [
+        "Mecánica longitudinal",
+        "Electromagnética transversal",
+        "De radio",
+        "Gravitacional"
+      ],
+      "correct": 0,
+      "explanation": "Necesita un medio de propagación y las partículas vibran en la misma dirección de la onda."
+    },
+    {
+      "id": "nat_pro_25",
+      "icon": "🔬",
+      "text": "El ADN se encuentra principalmente dentro de este orgánulo en células eucariotas:",
+      "options": [
+        "Núcleo",
+        "Ribosoma",
+        "Lisosoma",
+        "Aparato de Golgi"
+      ],
+      "correct": 0,
+      "explanation": "El núcleo resguarda la información genética."
+    },
+    {
+      "id": "nat_pro_26",
+      "icon": "🧪",
+      "text": "¿Qué sucede con la masa de los reactantes en una reacción química en recipiente cerrado según Lavoisier?",
+      "options": [
+        "Permanece constante",
+        "Desaparece parte de ella",
+        "Aumenta si hay fuego",
+        "Se transforma toda en energía"
+      ],
+      "correct": 0,
+      "explanation": "Ley de conservación de la masa: 'la materia no se crea ni se destruye'."
+    },
+    {
+      "id": "nat_pro_27",
+      "icon": "⚡",
+      "text": "El fenómeno por el cual un rayo de luz cambia de dirección al pasar de un medio a otro (ej: aire a agua) se llama:",
+      "options": [
+        "Refracción",
+        "Difracción",
+        "Atalismo",
+        "Reflexión"
+      ],
+      "correct": 0,
+      "explanation": "Se debe al cambio de velocidad de la luz en los distintos medios."
+    },
+    {
+      "id": "nat_pro_28",
+      "icon": "🔬",
+      "text": "En el ciclo del agua, la 'evapotranspiración' incluye el agua que:",
+      "options": [
+        "Liberan las plantas a la atmósfera",
+        "Cae en forma de nieve",
+        "Se infiltra en el suelo",
+        "Fluye por los ríos"
+      ],
+      "correct": 0,
+      "explanation": "Es la suma de evaporación de superficies y transpiración vegetal."
+    },
+    {
+      "id": "nat_pro_29",
+      "icon": "🧪",
+      "text": "Un hidrocarburo que tiene solo enlaces sencillos se clasifica como:",
+      "options": [
+        "Alcano",
+        "Alqueno",
+        "Alquino",
+        "Aromático"
+      ],
+      "correct": 0,
+      "explanation": "Son hidrocarburos saturados (fórmula CₙH₂ₙ₊₂)."
+    },
+    {
+      "id": "nat_pro_30",
+      "icon": "⚡",
+      "text": "La unidad de potencia eléctrica es el:",
+      "options": [
+        "Vatio (Watt)",
+        "Voltio",
+        "Amperio",
+        "Ohmio"
+      ],
+      "correct": 0,
+      "explanation": "P (Watts) = V (Volts) × I (Amps)."
+    },
+    {
+      "id": "nat_pro_31",
+      "icon": "🔬",
+      "text": "En genética, el 'fenotipo' se refiere a:",
+      "options": [
+        "Los rasgos observables de un individuo",
+        "La secuencia interna de genes",
+        "El número total de cromosomas",
+        "Un tipo de mutación dañina"
+      ],
+      "correct": 0,
+      "explanation": "Es la expresión del genotipo influenciada por el ambiente."
+    },
+    {
+      "id": "nat_pro_32",
+      "icon": "🧪",
+      "text": "El CO₂ es un gas de efecto invernadero porque:",
+      "options": [
+        "Atrapa el calor radiado por la superficie terrestre",
+        "Destruye la capa de ozono directamente",
+        "Enfría los océanos rápidamente",
+        "Impide que la luz del sol llegue a la Tierra"
+      ],
+      "correct": 0,
+      "explanation": "Deja pasar la luz solar pero absorbe la radiación infrarroja de salida."
+    },
+    {
+      "id": "nat_pro_33",
+      "icon": "⚡",
+      "text": "Un objeto en caída libre en el vacío se desplaza con:",
+      "options": [
+        "Aceleración constante",
+        "Velocidad constante",
+        "Desaceleración",
+        "Trayectoria circular"
+      ],
+      "correct": 0,
+      "explanation": "La aceleración de la gravedad (g ≈ 9.8 m/s²) es constante."
+    },
+    {
+      "id": "nat_pro_34",
+      "icon": "🔬",
+      "text": "Los ribosomas son responsables de:",
+      "options": [
+        "La síntesis de proteínas",
+        "La síntesis de lípidos",
+        "La división del núcleo",
+        "El transporte de glucosa"
+      ],
+      "correct": 0,
+      "explanation": "Traducen el ARN mensajero en cadenas de aminoácidos."
+    },
+    {
+      "id": "nat_pro_35",
+      "icon": "🧪",
+      "text": "¿Qué partícula subatómica tiene carga negativa?",
+      "options": [
+        "Electrón",
+        "Protón",
+        "Neutrón",
+        "Positrón"
+      ],
+      "correct": 0,
+      "explanation": "El electrón orbita el núcleo y posee carga negativa fundamental."
+    },
+    {
+      "id": "nat_pro_36",
+      "icon": "⚡",
+      "text": "La Primera Ley de la Termodinámica afirma que:",
+      "options": [
+        "La energía se conserva, solo se transforma",
+        "El desorden (entropía) siempre aumenta",
+        "El cero absoluto es inalcanzable",
+        "La energía fluye solo del frío al calor"
+      ],
+      "correct": 0,
+      "explanation": "Es el principio de conservación de la energía aplicado al calor."
+    },
+    {
+      "id": "nat_pro_37",
+      "icon": "🔬",
+      "text": "El órgano encargado de filtrar la sangre y producir orina es:",
+      "options": [
+        "Riñón",
+        "Hígado",
+        "Páncreas",
+        "Pulmón"
+      ],
+      "correct": 0,
+      "explanation": "Los riñones eliminan toxinas y regulan el equilibrio hídrico."
+    },
+    {
+      "id": "nat_pro_38",
+      "icon": "🧪",
+      "text": "Un catalizador en una reacción química sirve para:",
+      "options": [
+        "Aumentar la velocidad de la reacción",
+        "Consumirse para crear más producto",
+        "Inhibir completamente el proceso",
+        "Cambiar el pH de la solución base"
+      ],
+      "correct": 0,
+      "explanation": "Baja la energía de activación sin gastarse en el proceso."
+    },
+    {
+      "id": "nat_pro_39",
+      "icon": "⚡",
+      "text": "La fuerza de atracción entre dos masas depende de:",
+      "options": [
+        "El producto de sus masas y la distancia",
+        "Su color y temperatura",
+        "Solo del tiempo que lleven juntas",
+        "De la presión atmosférica del lugar"
+      ],
+      "correct": 0,
+      "explanation": "Ley de gravitación universal de Newton."
+    },
+    {
+      "id": "nat_pro_40",
+      "icon": "🔬",
+      "text": "La homeostasis es el proceso por el cual los seres vivos:",
+      "options": [
+        "Mantienen un equilibrio interno constante",
+        "Crecen hasta su tamaño adulto",
+        "Se reproducen sexualmente",
+        "Mutan para adaptarse al ambiente"
+      ],
+      "correct": 0,
+      "explanation": "Es la autorregulación (ej: mantener temperatura corporal)."
+    }
+  ]
+}

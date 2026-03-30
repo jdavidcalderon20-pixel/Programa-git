@@ -1,0 +1,522 @@
+[
+  {
+    "id": "eng_pro_1",
+    "icon": "🇬🇧",
+    "text": "If she ________ more time, she would travel around the world.",
+    "options": [
+      "had",
+      "has",
+      "have",
+      "would have"
+    ],
+    "correct": 0,
+    "explanation": "Paso 1: Análisis del Enunciado\nLa frase es: 'If she ________ more time, she would travel around the world.' Se trata de una oración hipotética que usa la estructura del condicional.\n\nPaso 2: Procedimiento/Lógica\n1. Identificamos el **Second Conditional** por la presencia de 'would travel' en la cláusula principal.\n2. La regla gramatical indica que la cláusula de la condición (IF) debe ir en **Past Simple**.\n3. El pasado simple del verbo 'have' es 'had'.\n\nPaso 3: Conclusión\nLa forma correcta es **had**, completando la estructura: If + Past Simple + Would + Verb."
+  },
+  {
+    "id": "eng_pro_2",
+    "icon": "🇬🇧",
+    "text": "Choose the correct sentence:",
+    "options": [
+      "I have been living here for five years.",
+      "I am living here since five years.",
+      "I lived here for five years ago.",
+      "I have live here five years."
+    ],
+    "correct": 0,
+    "explanation": "Paso 1: Análisis del Enunciado\nSe nos pide elegir la oración gramaticalmente correcta para expresar una acción que comenzó hace 5 años y continúa hoy.\n\nPaso 2: Procedimiento/Lógica\n1. Para acciones que iniciaron en el pasado y siguen vigentes, usamos el **Present Perfect Continuous**.\n2. La estructura es: Subject + have/has been + verb-ing.\n3. Usamos la preposición **'for'** para indicar la duración del periodo (5 años).\n4. La opción 'I have been living here for five years' cumple perfectamente con estas reglas.\n\nPaso 3: Conclusión\nLa primera opción es la única que aplica correctamente tanto el tiempo verbal como la preposición de duración."
+  },
+  {
+    "id": "eng_pro_3",
+    "icon": "🇬🇧",
+    "text": "What is the synonym of 'HUGE'?",
+    "options": [
+      "Enormous",
+      "Tiny",
+      "Fragile",
+      "Expensive"
+    ],
+    "correct": 0,
+    "explanation": "'Huge' and 'enormous' both mean very large."
+  },
+  {
+    "id": "eng_pro_4",
+    "icon": "🇬🇧",
+    "text": "You ________ smoke in hospitals. It is forbidden.",
+    "options": [
+      "mustn't",
+      "don't have to",
+      "shouldn't",
+      "might not"
+    ],
+    "correct": 0,
+    "explanation": "'Mustn't' indicates a strong prohibition."
+  },
+  {
+    "id": "eng_pro_5",
+    "icon": "🇬🇧",
+    "text": "The book ________ by Gabriel García Márquez in 1967.",
+    "options": [
+      "was written",
+      "wrote",
+      "is written",
+      "has written"
+    ],
+    "correct": 0,
+    "explanation": "Passive voice in past simple: was/were + past participle."
+  },
+  {
+    "id": "eng_pro_6",
+    "icon": "🇬🇧",
+    "text": "I was walking to school when I ________ my best friend.",
+    "options": [
+      "met",
+      "meet",
+      "was meeting",
+      "had met"
+    ],
+    "correct": 0,
+    "explanation": "Past continuous (was walking) is interrupted by a sudden past simple action (met)."
+  },
+  {
+    "id": "eng_pro_7",
+    "icon": "🇬🇧",
+    "text": "Choose the best connector: '________ it was raining, they decided to go for a run.'",
+    "options": [
+      "Although",
+      "Because",
+      "Therefore",
+      "In addition"
+    ],
+    "correct": 0,
+    "explanation": "'Although' is used to show contrast or concession."
+  },
+  {
+    "id": "eng_pro_8",
+    "icon": "🇬🇧",
+    "text": "The test was ________ than the previous one.",
+    "options": [
+      "easier",
+      "more easy",
+      "easiest",
+      "as easy"
+    ],
+    "correct": 0,
+    "explanation": "Comparative of short adjectives: add -er (easy -> easier)."
+  },
+  {
+    "id": "eng_pro_9",
+    "icon": "🇬🇧",
+    "text": "He is the person ________ won the lottery last year.",
+    "options": [
+      "who",
+      "which",
+      "whose",
+      "whom"
+    ],
+    "correct": 0,
+    "explanation": "Relative pronoun 'who' is used for people."
+  },
+  {
+    "id": "eng_pro_10",
+    "icon": "🇬🇧",
+    "text": "I'm looking forward ________ you soon.",
+    "options": [
+      "to seeing",
+      "to see",
+      "seeing",
+      "see"
+    ],
+    "correct": 0,
+    "explanation": "The phrase 'look forward to' is followed by -ing form (gerund)."
+  },
+  {
+    "id": "eng_pro_11",
+    "icon": "🇬🇧",
+    "text": "Where ________ yesterday at 5 PM?",
+    "options": [
+      "were you",
+      "did you be",
+      "are you",
+      "was you"
+    ],
+    "correct": 0,
+    "explanation": "Past simple of 'to be' for 'you' is 'were'."
+  },
+  {
+    "id": "eng_pro_12",
+    "icon": "🇬🇧",
+    "text": "By the time I arrived, the movie ________.",
+    "options": [
+      "had already started",
+      "already started",
+      "was already starting",
+      "has already started"
+    ],
+    "correct": 0,
+    "explanation": "Past perfect is used for an action completed before another past action."
+  },
+  {
+    "id": "eng_pro_13",
+    "icon": "🇬🇧",
+    "text": "I haven't seen him ________ last summer.",
+    "options": [
+      "since",
+      "for",
+      "during",
+      "until"
+    ],
+    "correct": 0,
+    "explanation": "'Since' indicates a specific point in time in the past."
+  },
+  {
+    "id": "eng_pro_14",
+    "icon": "🇬🇧",
+    "text": "If I ________ rich, I would buy a mansion.",
+    "options": [
+      "were",
+      "was",
+      "am",
+      "be"
+    ],
+    "correct": 0,
+    "explanation": "In 2nd conditional, 'were' is used for all persons including 'I'."
+  },
+  {
+    "id": "eng_pro_15",
+    "icon": "🇬🇧",
+    "text": "I ________ my keys. Have you seen them?",
+    "options": [
+      "have lost",
+      "lost",
+      "am losing",
+      "had lost"
+    ],
+    "correct": 0,
+    "explanation": "Present perfect is used for recent actions with current results."
+  },
+  {
+    "id": "eng_pro_16",
+    "icon": "🇬🇧",
+    "text": "She ________ speaks three languages fluently.",
+    "options": [
+      "already",
+      "yet",
+      "still",
+      "just"
+    ],
+    "correct": 0,
+    "explanation": "'Already' suggests something happened sooner than expected."
+  },
+  {
+    "id": "eng_pro_17",
+    "icon": "🇬🇧",
+    "text": "You should ________ more water every day.",
+    "options": [
+      "drink",
+      "drinks",
+      "drinking",
+      "drank"
+    ],
+    "correct": 0,
+    "explanation": "Modal verbs (should, can, must) are followed by the base form of the verb."
+  },
+  {
+    "id": "eng_pro_18",
+    "icon": "🇬🇧",
+    "text": "The weather is ________ today than it was yesterday.",
+    "options": [
+      "worse",
+      "more bad",
+      "badder",
+      "worst"
+    ],
+    "correct": 0,
+    "explanation": "Irregular comparative: bad -> worse."
+  },
+  {
+    "id": "eng_pro_19",
+    "icon": "🇬🇧",
+    "text": "I ________ French for three years now.",
+    "options": [
+      "have been studying",
+      "was studying",
+      "am studying",
+      "studied"
+    ],
+    "correct": 0,
+    "explanation": "Present perfect continuous for actions that started in the past and continue."
+  },
+  {
+    "id": "eng_pro_20",
+    "icon": "🇬🇧",
+    "text": "Whose car is this? It's ________.",
+    "options": [
+      "mine",
+      "my",
+      "me",
+      "I"
+    ],
+    "correct": 0,
+    "explanation": "Possessive pronoun 'mine' replaces 'my car'."
+  },
+  {
+    "id": "eng_pro_21",
+    "icon": "🇬🇧",
+    "text": "I ________ go to the party, but I'm not sure yet.",
+    "options": [
+      "might",
+      "must",
+      "should",
+      "have to"
+    ],
+    "correct": 0,
+    "explanation": "'Might' expresses possibility."
+  },
+  {
+    "id": "eng_pro_22",
+    "icon": "🇬🇧",
+    "text": "They ________ soccer when it started to hail.",
+    "options": [
+      "were playing",
+      "played",
+      "was playing",
+      "have played"
+    ],
+    "correct": 0,
+    "explanation": "Interrupted past action."
+  },
+  {
+    "id": "eng_pro_23",
+    "icon": "🇬🇧",
+    "text": "This is the ________ movie I have ever seen.",
+    "options": [
+      "most interesting",
+      "more interesting",
+      "interesantest",
+      "as interesting"
+    ],
+    "correct": 0,
+    "explanation": "Superlative of long adjectives: most + adjective."
+  },
+  {
+    "id": "eng_pro_24",
+    "icon": "🇬🇧",
+    "text": "She doesn't like pizza, ________?",
+    "options": [
+      "does she",
+      "doesn't she",
+      "is she",
+      "do she"
+    ],
+    "correct": 0,
+    "explanation": "Question tag for negative sentence uses the positive auxiliary."
+  },
+  {
+    "id": "eng_pro_25",
+    "icon": "🇬🇧",
+    "text": "I am interested ________ learning about new cultures.",
+    "options": [
+      "in",
+      "at",
+      "on",
+      "about"
+    ],
+    "correct": 0,
+    "explanation": "Correct preposition after 'interested' is 'in'."
+  },
+  {
+    "id": "eng_pro_26",
+    "icon": "🇬🇧",
+    "text": "He ________ up very early every morning.",
+    "options": [
+      "gets",
+      "get",
+      "got",
+      "getting"
+    ],
+    "correct": 0,
+    "explanation": "Present simple for habits (3rd person singular)."
+  },
+  {
+    "id": "eng_pro_27",
+    "icon": "🇬🇧",
+    "text": "We ________ to London next week.",
+    "options": [
+      "are flying",
+      "fly",
+      "have flown",
+      "will be fly"
+    ],
+    "correct": 0,
+    "explanation": "Present continuous is often used for fixed future plans."
+  },
+  {
+    "id": "eng_pro_28",
+    "icon": "🇬🇧",
+    "text": "The keys are ________ the table.",
+    "options": [
+      "on",
+      "at",
+      "in",
+      "with"
+    ],
+    "correct": 0,
+    "explanation": "Preposition of place 'on' for surfaces."
+  },
+  {
+    "id": "eng_pro_29",
+    "icon": "🇬🇧",
+    "text": "He is ________ at mathematics than I am.",
+    "options": [
+      "better",
+      "gooder",
+      "best",
+      "more good"
+    ],
+    "correct": 0,
+    "explanation": "Irregular comparative: good -> better."
+  },
+  {
+    "id": "eng_pro_30",
+    "icon": "🇬🇧",
+    "text": "What ________ you do if you saw a ghost?",
+    "options": [
+      "would",
+      "will",
+      "shall",
+      "can"
+    ],
+    "correct": 0,
+    "explanation": "Second conditional question."
+  },
+  {
+    "id": "eng_pro_31",
+    "icon": "🇬🇧",
+    "text": "I can't find my phone ________.",
+    "options": [
+      "anywhere",
+      "somewhere",
+      "nowhere",
+      "everywhere"
+    ],
+    "correct": 0,
+    "explanation": "'Anywhere' is used in negative sentences."
+  },
+  {
+    "id": "eng_pro_32",
+    "icon": "🇬🇧",
+    "text": "She has ________ information about the project.",
+    "options": [
+      "some",
+      "any",
+      "an",
+      "many"
+    ],
+    "correct": 0,
+    "explanation": "'Some' is used in positive sentences with uncountable nouns."
+  },
+  {
+    "id": "eng_pro_33",
+    "icon": "🇬🇧",
+    "text": "I have been waiting for ________ hour.",
+    "options": [
+      "an",
+      "a",
+      "some",
+      "the"
+    ],
+    "correct": 0,
+    "explanation": "'Hour' starts with a vowel sound (h is silent), so we use 'an'."
+  },
+  {
+    "id": "eng_pro_34",
+    "icon": "🇬🇧",
+    "text": "He ________ his homework before going to bed.",
+    "options": [
+      "did",
+      "done",
+      "does",
+      "do"
+    ],
+    "correct": 0,
+    "explanation": "Past simple action."
+  },
+  {
+    "id": "eng_pro_35",
+    "icon": "🇬🇧",
+    "text": "I ________ used to get up early when I was a child.",
+    "options": [
+      "didn't use to",
+      "not use to",
+      "don't use to",
+      "didn't used to"
+    ],
+    "correct": 0,
+    "explanation": "Correct negative form of 'used to' is 'didn't use to'."
+  },
+  {
+    "id": "eng_pro_36",
+    "icon": "🇬🇧",
+    "text": "This cake ________ delicious!",
+    "options": [
+      "tastes",
+      "is tasting",
+      "taste",
+      "has tasted"
+    ],
+    "correct": 0,
+    "explanation": "Stative verbs (like taste, smell, know) are usually in simple form."
+  },
+  {
+    "id": "eng_pro_37",
+    "icon": "🇬🇧",
+    "text": "I ________ my breakfast yet.",
+    "options": [
+      "haven't had",
+      "don't have",
+      "didn't have",
+      "wasn't having"
+    ],
+    "correct": 0,
+    "explanation": "Present perfect with 'yet' in negative."
+  },
+  {
+    "id": "eng_pro_38",
+    "icon": "🇬🇧",
+    "text": "She told me that she ________ to visit me soon.",
+    "options": [
+      "was going",
+      "is going",
+      "will",
+      "goes"
+    ],
+    "correct": 0,
+    "explanation": "Reported speech: 'am going to' becomes 'was going to'."
+  },
+  {
+    "id": "eng_pro_39",
+    "icon": "🇬🇧",
+    "text": "Can you tell me ________ the nearest bank is?",
+    "options": [
+      "where",
+      "when",
+      "whose",
+      "which"
+    ],
+    "correct": 0,
+    "explanation": "Place question."
+  },
+  {
+    "id": "eng_pro_40",
+    "icon": "🇬🇧",
+    "text": "Keep quiet! The baby ________.",
+    "options": [
+      "is sleeping",
+      "sleeps",
+      "slept",
+      "has slept"
+    ],
+    "correct": 0,
+    "explanation": "Action happening right now."
+  }
+]

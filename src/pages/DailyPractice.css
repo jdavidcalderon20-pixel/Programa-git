@@ -1,0 +1,140 @@
+/* DailyPractice.css */
+.dp-container {
+  max-width: 900px; margin: 0 auto; padding: 2rem 1rem 3rem;
+  display: flex; flex-direction: column; gap: 1.2rem;
+}
+
+.dp-intro-card { padding: 2.5rem 2rem; text-align: center; }
+.dp-icon { font-size: 3.5rem; margin-bottom: 0.5rem; }
+.dp-sub { color: var(--text-muted); margin-bottom: 2rem; }
+
+.dp-info-grid {
+  display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+  gap: 1rem; margin-bottom: 2rem;
+}
+.dp-info-item {
+  display: flex; flex-direction: column; align-items: center; gap: 0.5rem;
+  background: var(--bg-card); padding: 1.2rem; border-radius: var(--radius-pro);
+  font-size: 1.5rem; border: 1px solid var(--border-subtle);
+  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+.dp-info-item div strong { display: block; font-size: 1.1rem; color: var(--text-primary); }
+.dp-info-item div p { margin: 0; font-size: 0.75rem; color: var(--text-muted); }
+
+.dp-start { width: 100%; padding: 1rem; font-size: 1.05rem; }
+
+.dp-done-notice {
+  display: flex; align-items: center; gap: 1rem;
+  background: rgba(52,211,153,0.1); border: 1px solid rgba(52,211,153,0.3);
+  padding: 1.2rem; border-radius: 12px; text-align: left; margin-bottom: 1rem;
+}
+.dp-done-notice span { font-size: 2rem; }
+.dp-done-notice strong { color: #34d399; }
+.dp-done-notice p { margin: 0.2rem 0 0; font-size: 0.9rem; color: var(--text-muted); }
+
+.dp-exam-header { padding: 1rem 1.5rem; }
+.dp-eh-left { display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.6rem; }
+.dp-area-badge { background: rgba(167,139,250,0.15); color: #a78bfa; padding: 0.25rem 0.7rem; border-radius: 50px; font-size: 0.85rem; font-weight: 600; }
+.dp-counter { color: var(--text-muted); font-size: 0.9rem; }
+.dp-timer { font-size: 1.3rem; font-weight: 700; color: #60a5fa; }
+.dp-timer-critical { color: #ef4444; animation: blink 1s infinite; }
+@keyframes blink { 0%,100% { opacity: 1; } 50% { opacity: 0.5; } }
+
+.dp-result-card { padding: 2rem; text-align: center; }
+.dp-score { 
+  font-size: 4.5rem; 
+  font-weight: 800; 
+  background: var(--gradient-pro); 
+  -webkit-background-clip: text; 
+  background-clip: text;
+  -webkit-text-fill-color: transparent; 
+}
+.dp-xp-badge { display: inline-block; background: rgba(167,139,250,0.15); color: #a78bfa; border: 1px solid rgba(167,139,250,0.3); padding: 0.4rem 1rem; border-radius: 50px; font-weight: 700; margin: 0.5rem 0 1.5rem; }
+
+.dp-area-breakdown { text-align: left; margin-bottom: 1.5rem; }
+.dp-area-breakdown h3 { margin-bottom: 0.8rem; }
+.dp-area-row { display: flex; align-items: center; gap: 0.8rem; margin-bottom: 0.6rem; font-size: 0.9rem; }
+.dp-area-row span:first-child { width: 160px; flex-shrink: 0; }
+.dp-area-bar { flex: 1; height: 8px; background: rgba(255,255,255,0.08); border-radius: 4px; overflow: hidden; }
+.dp-area-fill { height: 100%; background: linear-gradient(90deg, #60a5fa, #a78bfa); border-radius: 4px; }
+.dp-area-pct { width: 35px; text-align: right; color: var(--text-muted); font-size: 0.8rem; flex-shrink: 0; }
+
+/* Immediate Feedback Styling (Same as Study/Quiz) */
+.option-item.selected {
+  border-color: #f59e0b !important;
+  box-shadow: 0 0 12px rgba(245, 158, 11, 0.4);
+  background: rgba(245, 158, 11, 0.1) !important;
+}
+
+.option-item.correct-highlight {
+  border-color: #10b981 !important;
+  background: rgba(16, 185, 129, 0.15) !important;
+  box-shadow: 0 0 10px rgba(16, 185, 129, 0.2);
+}
+
+.option-item.wrong-highlight {
+  border-color: #ef4444 !important;
+  background: rgba(239, 68, 68, 0.15) !important;
+  box-shadow: 0 0 10px rgba(239, 68, 68, 0.2);
+}
+
+.quiz-immediate-feedback {
+  margin-top: 2rem;
+  padding: 1.5rem;
+  border-radius: var(--radius-pro);
+  border: 1px solid var(--border-subtle);
+  text-align: left;
+  box-shadow: var(--shadow-pro);
+}
+
+.feedback-success {
+  background: rgba(16, 185, 129, 0.1);
+  border-left: 4px solid #10b981;
+}
+
+.feedback-error {
+  background: rgba(239, 68, 68, 0.1);
+  border-left: 4px solid #ef4444;
+}
+
+.feedback-header {
+  font-weight: 700;
+  font-size: 1.1rem;
+  margin-bottom: 0.5rem;
+}
+
+.feedback-explanation {
+  font-size: 0.95rem;
+  line-height: 1.7;
+  color: var(--text-primary);
+  white-space: pre-wrap;
+}
+
+/* Estilos de Andamiaje Educativo */
+.explanation-step {
+  margin-top: 1rem;
+  padding: 0.8rem 1rem;
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.03);
+  border: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.step-title {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-weight: 700;
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  margin-bottom: 0.4rem;
+  letter-spacing: 0.5px;
+}
+
+.step-1 { border-left: 3px solid #60a5fa; color: #60a5fa; }
+.step-2 { border-left: 3px solid #fbbf24; color: #fbbf24; }
+.step-3 { border-left: 3px solid #34d399; color: #34d399; }
+
+.feedback-explanation b, .feedback-explanation strong { color: var(--primary); }
+.feedback-explanation ul { padding-left: 1.2rem; margin: 0.5rem 0; }
+.feedback-explanation li { margin-bottom: 0.3rem; }
+

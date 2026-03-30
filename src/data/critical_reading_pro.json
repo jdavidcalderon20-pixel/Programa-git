@@ -1,0 +1,522 @@
+[
+  {
+    "id": "lc_pro_1",
+    "icon": "📖",
+    "text": "Texto: 'Y me sentí más solo que nunca en medio de la gente, porque me di cuenta de que todos estaban acompañados por su propia imagen'.\n\n¿Qué figura retórica predomina en el fragmento?",
+    "options": [
+      "Paradoja",
+      "Hipérbole",
+      "Símil",
+      "Personificación"
+    ],
+    "correct": 0,
+    "explanation": "Paso 1: Análisis del Enunciado\nEl fragmento dice: 'Y me sentí más solo que nunca en medio de la gente...'. Se nos pide identificar la figura retórica que predomina en esta expresión.\n\nPaso 2: Procedimiento/Lógica\n1. Analizamos los términos: 'solo' (soledad) frente a 'en medio de la gente' (compañía/multitud).\n2. Estas dos realidades son lógicamente opuestas pero ocurren simultáneamente en el texto.\n3. Una **paradoja** es precisamente el uso de expresiones que envuelven una contradicción aparente pero que invitan a una reflexión profunda sobre la realidad (en este caso, la soledad existencial).\n\nPaso 3: Conclusión\nLa respuesta es **Paradoja**, ya que describe una situación contradictoria que tiene sentido dentro del contexto emocional del autor."
+  },
+  {
+    "id": "lc_pro_2",
+    "icon": "✍️",
+    "text": "Si un autor utiliza un tono irónico en su columna de opinión para criticar una política pública, su intención principal es:",
+    "options": [
+      "Burlarse sutilmente para evidenciar contradicciones",
+      "Exponer datos técnicos de forma objetiva",
+      "Persuadir al lector mediante la piedad",
+      "Informar sobre la aprobación de la ley"
+    ],
+    "correct": 0,
+    "explanation": "Paso 1: Análisis del Enunciado\nEl enunciado plantea una situación donde un autor usa un **tono irónico** para criticar una política pública. Debemos identificar su intención principal.\n\nPaso 2: Procedimiento/Lógica\n1. La **ironía** consiste en expresar algo diciendo lo contrario, o usar un lenguaje que resalte lo absurdo de una situación.\n2. Al criticar una política, el autor busca que el lector note las fallas o 'sin sentidos' de dicha política.\n3. Por tanto, el objetivo es evidenciar esas contradicciones de una forma sutil y mordaz.\n\nPaso 3: Conclusión\nLa opción correcta es burlarse sutilmente para **evidenciar contradicciones**, que es la naturaleza funcional de la ironía en textos de opinión."
+  },
+  {
+    "id": "lc_pro_3",
+    "icon": "📖",
+    "text": "En el enunciado 'Aunque la globalización ha traído beneficios económicos, también ha profundizado la brecha de desigualdad', el conector 'Aunque' cumple la función de:",
+    "options": [
+      "Conceder un punto para luego presentar una contraposición",
+      "Introducir una causa directa del fenómeno",
+      "Enumerar beneficios de forma secuencial",
+      "Concluir una idea previamente expuesta"
+    ],
+    "correct": 0,
+    "explanation": "Es un conector concesivo; admite una realidad (beneficios) pero subraya otra opuesta (desigualdad)."
+  },
+  {
+    "id": "lc_pro_4",
+    "icon": "✍️",
+    "text": "¿Qué caracteriza fundamentalmente a un texto argumentativo?",
+    "options": [
+      "La defensa de una tesis mediante razones",
+      "La descripción detallada de personajes",
+      "La narración de hechos cronológicos",
+      "La explicación técnica de un proceso"
+    ],
+    "correct": 0,
+    "explanation": "Su propósito es convencer al lector de una postura (tesis) usando argumentos sustentados."
+  },
+  {
+    "id": "lc_pro_5",
+    "icon": "📖",
+    "text": "Texto: 'La libertad no consiste en hacer lo que uno quiere, sino en no estar obligado a hacer lo que no quiere'.\n\nSegún la frase anterior, la libertad se define como:",
+    "options": [
+      "La ausencia de coacción externa",
+      "El derecho al libre albedrío total",
+      "La capacidad de desobedecer la ley",
+      "El poder de decidir sobre otros"
+    ],
+    "correct": 0,
+    "explanation": "La frase enfatiza la 'no obligación', es decir, no ser forzado por otros (coacción)."
+  },
+  {
+    "id": "lc_pro_6",
+    "icon": "📖",
+    "text": "Si un texto científico afirma que 'la correlación no implica causalidad', está advirtiendo sobre el error de:",
+    "options": [
+      "Asumir que si dos hechos ocurren juntos, uno causó al otro",
+      "Ignorar los datos estadísticos de una muestra",
+      "Confundir la hipótesis con la conclusión",
+      "Utilizar lenguaje subjetivo en un informe"
+    ],
+    "correct": 0,
+    "explanation": "Dos variables pueden variar juntas sin que una sea la causa de la otra (pueden tener una causa común externa)."
+  },
+  {
+    "id": "lc_pro_7",
+    "icon": "✍️",
+    "text": "La diferencia principal entre un hecho y una opinión es que el hecho es:",
+    "options": [
+      "Verificable y objetivo",
+      "Extenso y detallado",
+      "Persuasivo y emotivo",
+      "Reciente y novedoso"
+    ],
+    "correct": 0,
+    "explanation": "Un hecho se puede comprobar mediante evidencia; una opinión depende del juicio personal."
+  },
+  {
+    "id": "lc_pro_8",
+    "icon": "📖",
+    "text": "En un texto narrativo, el narrador omnisciente es aquel que:",
+    "options": [
+      "Conoce todo, incluso los pensamientos de los personajes",
+      "Participa en la historia como protagonista",
+      "Solo cuenta lo que ve desde afuera",
+      "Es un personaje secundario que relata los hechos"
+    ],
+    "correct": 0,
+    "explanation": "Omnisciente viene de 'todo lo sabe'; tiene acceso total al mundo interno de la historia."
+  },
+  {
+    "id": "lc_pro_9",
+    "icon": "✍️",
+    "text": "Cuando se lee un texto filosófico, identificar la 'pregunta problema' permite:",
+    "options": [
+      "Entender el eje central de la discusión",
+      "Conocer la biografía del autor",
+      "Saber en qué año fue escrito el libro",
+      "Identificar el número de capítulos"
+    ],
+    "correct": 0,
+    "explanation": "La filosofía parte de problemas; la pregunta guía todo el razonamiento del texto."
+  },
+  {
+    "id": "lc_pro_10",
+    "icon": "📖",
+    "text": "Texto: 'El hombre nace libre, pero en todas partes se halla encadenado'.\n\nEsta frase de Rousseau sugiere que:",
+    "options": [
+      "La sociedad impone restricciones a la naturaleza humana",
+      "La esclavitud es un estado natural del hombre",
+      "La libertad es una ilusión que no existe realmente",
+      "Las leyes son innecesarias para la convivencia"
+    ],
+    "correct": 0,
+    "explanation": "Sugiere que la condición social y política restringe la libertad natural original."
+  },
+  {
+    "id": "lc_pro_11",
+    "icon": "✍️",
+    "text": "Al evaluar la validez de un argumento, se debe verificar principalmente:",
+    "options": [
+      "La relación lógica entre premisas y conclusión",
+      "La cantidad de palabras utilizadas",
+      "La fama del autor que lo propone",
+      "Que el texto no tenga errores de ortografía"
+    ],
+    "correct": 0,
+    "explanation": "Un argumento es válido si la conclusión se deriva necesariamente de sus premisas."
+  },
+  {
+    "id": "lc_pro_12",
+    "icon": "📖",
+    "text": "Un artículo de divulgación científica se diferencia de uno especializado por:",
+    "options": [
+      "Adaptar el lenguaje para el público general",
+      "No usar datos ni estadísticas reales",
+      "Publicarse solo en redes sociales",
+      "Omitir el nombre de los científicos"
+    ],
+    "correct": 0,
+    "explanation": "La divulgación busca que el conocimiento complejo sea accesible sin perder rigor."
+  },
+  {
+    "id": "lc_pro_13",
+    "icon": "✍️",
+    "text": "El uso de comillas en la frase: El experto dijo que era una 'innovación' cuando en realidad era un plagio, sugiere un tono:",
+    "options": [
+      "Irónico o sarcástico",
+      "De admiración profunda",
+      "De cita textual académica",
+      "De duda científica"
+    ],
+    "correct": 0,
+    "explanation": "Las comillas se usan para distanciar al autor del término, implicando que no está de acuerdo."
+  },
+  {
+    "id": "lc_pro_14",
+    "icon": "📖",
+    "text": "En el análisis de una caricatura política, es fundamental observar:",
+    "options": [
+      "La relación entre los símbolos visuales y el contexto real",
+      "Solo los colores utilizados en el dibujo",
+      "El tipo de papel en el que fue impresa",
+      "La marca de los lápices que usó el dibujante"
+    ],
+    "correct": 0,
+    "explanation": "La caricatura comunica mediante la exageración visual de la realidad política."
+  },
+  {
+    "id": "lc_pro_15",
+    "icon": "✍️",
+    "text": "El conectivo 'Por consiguiente' introduce una:",
+    "options": [
+      "Consecuencia",
+      "Causa",
+      "Contradicción",
+      "Hipótesis"
+    ],
+    "correct": 0,
+    "explanation": "Es un conector consecutivo; indica el resultado de lo dicho anteriormente."
+  },
+  {
+    "id": "lc_pro_16",
+    "icon": "📖",
+    "text": "Un silogismo es un tipo de razonamiento donde:",
+    "options": [
+      "Dos premisas conducen necesariamente a una conclusión",
+      "Se cuenta una historia con moraleja",
+      "Se describen sentimientos de forma poética",
+      "Se comparan dos objetos diferentes"
+    ],
+    "correct": 0,
+    "explanation": "Es la base de la lógica deductiva (ej: Todos los hombres son mortales...)."
+  },
+  {
+    "id": "lc_pro_17",
+    "icon": "✍️",
+    "text": "Si un texto emplea tecnicismos constantes, el lector ideal es:",
+    "options": [
+      "Un experto en la materia",
+      "Un niño en edad escolar",
+      "Cualquier persona con interés",
+      "Un lector de literatura fantástica"
+    ],
+    "correct": 0,
+    "explanation": "Los tecnicismos definen una jerga especializada propia de un campo del saber."
+  },
+  {
+    "id": "lc_pro_18",
+    "icon": "📖",
+    "text": "¿Cuál es la función pedagógica de una fábula?",
+    "options": [
+      "Transmitir una enseñanza moral o ética",
+      "Instruir sobre el cuidado de los animales",
+      "Exponer leyes de la naturaleza",
+      "Entretener sin mayor propósito"
+    ],
+    "correct": 0,
+    "explanation": "Las fábulas usan personajes (usualmente animales) para ilustrar virtudes o vicios humanos."
+  },
+  {
+    "id": "lc_pro_19",
+    "icon": "✍️",
+    "text": "En la frase 'El tiempo es oro', se utiliza una:",
+    "options": [
+      "Metáfora",
+      "Metonimia",
+      "Silepsis",
+      "Anadiplosis"
+    ],
+    "correct": 0,
+    "explanation": "Es una metáfora que identifica el tiempo con un objeto de gran valor económico."
+  },
+  {
+    "id": "lc_pro_20",
+    "icon": "📖",
+    "text": "Leer entre líneas significa:",
+    "options": [
+      "Inferir información que no está explícita",
+      "Revisar si hay errores de impresión",
+      "Saltarse párrafos aburridos",
+      "Memorizar el texto palabra por palabra"
+    ],
+    "correct": 0,
+    "explanation": "Es el proceso cognitivo de captar el sentido implícito o las intenciones ocultas."
+  },
+  {
+    "id": "lc_pro_21",
+    "icon": "📖",
+    "text": "Texto: 'Aquel que no conoce su historia está condenado a repetirla'.\n\nLa premisa implícita en este texto es que:",
+    "options": [
+      "La historia tiene patrones cíclicos",
+      "El conocimiento histórico es inútil",
+      "La repetición es siempre positiva",
+      "El futuro no depende del pasado"
+    ],
+    "correct": 0,
+    "explanation": "Asume que los errores del pasado se repiten si no se aprende de ellos."
+  },
+  {
+    "id": "lc_pro_22",
+    "icon": "✍️",
+    "text": "Si un autor cita a una autoridad reconocida en su campo, está usando un argumento de:",
+    "options": [
+      "Autoridad",
+      "Analogía",
+      "Generalización",
+      "Causa-efecto"
+    ],
+    "correct": 0,
+    "explanation": "El valor del argumento reside en el respaldo del experto citado."
+  },
+  {
+    "id": "lc_pro_23",
+    "icon": "📖",
+    "text": "En el contexto de un debate, una 'falacia' es:",
+    "options": [
+      "Un argumento que parece válido pero no lo es",
+      "Una verdad absoluta e irrefutable",
+      "Un tipo de poesía clásica",
+      "La conclusión final del discurso"
+    ],
+    "correct": 0,
+    "explanation": "Es un error de razonamiento que invalida la base lógica del argumento."
+  },
+  {
+    "id": "lc_pro_24",
+    "icon": "✍️",
+    "text": "Un texto polifónico se caracteriza por:",
+    "options": [
+      "La presencia de múltiples voces o perspectivas",
+      "Tener muchas palabras desconocidas",
+      "Ser escrito por varios autores a la vez",
+      "Estar diseñado para ser leído en voz alta"
+    ],
+    "correct": 0,
+    "explanation": "Viene del griego: 'muchos sonidos/voces'. Incluye diversos puntos de vista."
+  },
+  {
+    "id": "lc_pro_25",
+    "icon": "📖",
+    "text": "El 'análisis crítico' de un texto requiere:",
+    "options": [
+      "Evaluar la lógica y las intenciones del autor",
+      "Resumir el texto sin dar ninguna opinión",
+      "Contar el número de sustantivos y adjetivos",
+      "Comparar la longitud de los capítulos"
+    ],
+    "correct": 0,
+    "explanation": "Implica una lectura profunda que cuestiona y valora la solidez del texto."
+  },
+  {
+    "id": "lc_pro_26",
+    "icon": "✍️",
+    "text": "En el enunciado 'Sus ojos eran dos luceros', la palabra luceros se usa en sentido:",
+    "options": [
+      "Figurado",
+      "Literal",
+      "Científico",
+      "Jurídico"
+    ],
+    "correct": 0,
+    "explanation": "Es un uso poético (connotativo) para resaltar el brillo u hermosura."
+  },
+  {
+    "id": "lc_pro_27",
+    "icon": "📖",
+    "text": "La 'tesis' de un ensayo es:",
+    "options": [
+      "La idea central que el autor defiende",
+      "El resumen de los libros consultados",
+      "La lista de los personajes de la obra",
+      "El título creativo del documento"
+    ],
+    "correct": 0,
+    "explanation": "Es el punto de vista u opinión principal que articula todo el ensayo."
+  },
+  {
+    "id": "lc_pro_28",
+    "icon": "✍️",
+    "text": "Un texto discontinuo es aquel que:",
+    "options": [
+      "Combina texto con elementos gráficos (tablas, mapas, etc.)",
+      "Está mal escrito y no se entiende",
+      "Tiene muchas notas al pie de página",
+      "Fue escrito en diferentes épocas"
+    ],
+    "correct": 0,
+    "explanation": "Requiere una lectura no lineal para integrar la información visual y textual."
+  },
+  {
+    "id": "lc_pro_29",
+    "icon": "📖",
+    "text": "La cohesión textual se refiere a:",
+    "options": [
+      "El uso correcto de conectores y gramática",
+      "La belleza de las imágenes poéticas",
+      "La cantidad de páginas del manuscrito",
+      "La relación del texto con otros libros"
+    ],
+    "correct": 0,
+    "explanation": "Es la propiedad gramatical que permite que las frases estén bien unidas entre sí."
+  },
+  {
+    "id": "lc_pro_30",
+    "icon": "✍️",
+    "text": "Si un autor apela a los sentimientos de culpa del lector, usa una estrategia:",
+    "options": [
+      "Emotiva",
+      "Racional",
+      "Estadística",
+      "Narrativa"
+    ],
+    "correct": 0,
+    "explanation": "Busca persuadir moviendo las emociones en lugar de la lógica pura."
+  },
+  {
+    "id": "lc_pro_31",
+    "icon": "📖",
+    "text": "El 'intertexto' ocurre cuando:",
+    "options": [
+      "Un texto hace referencia explícita o implícita a otro",
+      "Se traduce un libro de un idioma a otro",
+      "Un autor escribe bajo un seudónimo",
+      "Se imprime el libro en papel reciclado"
+    ],
+    "correct": 0,
+    "explanation": "Es el diálogo entre textos; ninguna obra nace en el vacío absoluto."
+  },
+  {
+    "id": "lc_pro_32",
+    "icon": "✍️",
+    "text": "¿Qué función cumple el contraargumento en un debate?",
+    "options": [
+      "Refutar una idea opuesta para fortalecer la propia",
+      "Darle la razón al oponente por cortesía",
+      "Cambiar de tema cuando no se sabe qué decir",
+      "Repetir la tesis con palabras más bonitas"
+    ],
+    "correct": 0,
+    "explanation": "Sirve para anticipar y neutralizar las objeciones que puedan surgir."
+  },
+  {
+    "id": "lc_pro_33",
+    "icon": "📖",
+    "text": "El punto de vista en primera persona hace que el texto sea más:",
+    "options": [
+      "Subjetivo y cercano",
+      "Objetivo y distante",
+      "Científico y riguroso",
+      "Ficticio y aburrido"
+    ],
+    "correct": 0,
+    "explanation": "Al narrar desde el 'yo', la percepción está filtrada por las emociones del narrador."
+  },
+  {
+    "id": "lc_pro_34",
+    "icon": "✍️",
+    "text": "¿Cuál es el objetivo de un resumen?",
+    "options": [
+      "Sintetizar las ideas principales de forma breve",
+      "Añadir críticas personales al contenido",
+      "Expandir el texto original con más datos",
+      "Cambiar la intención del autor original"
+    ],
+    "correct": 0,
+    "explanation": "Busca preservar lo esencial del texto de manera condensada."
+  },
+  {
+    "id": "lc_pro_35",
+    "icon": "📖",
+    "text": "En un texto, la 'idea principal' suele ser:",
+    "options": [
+      "Aquella que da sentido global al párrafo",
+      "La que aparece siempre al primer renglón",
+      "La que tiene mayor número de adjetivos",
+      "La que menciona nombres de famosos"
+    ],
+    "correct": 0,
+    "explanation": "Es el núcleo informativo; si se quita, el texto pierde su coherencia básica."
+  },
+  {
+    "id": "lc_pro_36",
+    "icon": "✍️",
+    "text": "El uso de paréntesis suele servir para:",
+    "options": [
+      "Insertar información aclaratoria o complementaria",
+      "Indicar que el autor está gritando",
+      "Separar párrafos de diferentes temas",
+      "Finalizar la escritura de un texto"
+    ],
+    "correct": 0,
+    "explanation": "Añaden datos que, aunque útiles, no son estructurales para la oración principal."
+  },
+  {
+    "id": "lc_pro_37",
+    "icon": "📖",
+    "text": "La parodia es una forma de intertextualidad que busca:",
+    "options": [
+      "Imitar un estilo con fines humorísticos o críticos",
+      "Copiar exactamente una obra para venderla",
+      "Homenajear de forma solemne a un autor",
+      "Traducir un texto de forma literal"
+    ],
+    "correct": 0,
+    "explanation": "Usa la estructura de una obra original para crear un efecto cómico o de burla."
+  },
+  {
+    "id": "lc_pro_38",
+    "icon": "✍️",
+    "text": "Un texto instructivo tiene como función:",
+    "options": [
+      "Guiar al lector para realizar una acción específica",
+      "Contar una leyenda de un pueblo antiguo",
+      "Expresar los sentimientos del autor",
+      "Debatirse entre dos posturas políticas"
+    ],
+    "correct": 0,
+    "explanation": "Como las recetas o manuales; su meta es el cumplimiento de pasos."
+  },
+  {
+    "id": "lc_pro_39",
+    "icon": "📖",
+    "text": "El contexto histórico de un texto permite:",
+    "options": [
+      "Comprender las causas y situaciones que influyeron en el autor",
+      "Saber el precio comercial del libro actualmente",
+      "Identificar el tipo de fuente (tipografía) usada",
+      "Conocer el peso exacto del libro en gramos"
+    ],
+    "correct": 0,
+    "explanation": "Ningún texto es ajeno a las circunstancias sociales y temporales de su creación."
+  },
+  {
+    "id": "lc_pro_40",
+    "icon": "✍️",
+    "text": "¿Qué se busca en el nivel de lectura 'inferencial'?",
+    "options": [
+      "Deducir conclusiones no dichas basándose en pistas del texto",
+      "Identificar los nombres de los personajes principales",
+      "Memorizar las fechas que aparecen en el escrito",
+      "Contar el número total de palabras del texto"
+    ],
+    "correct": 0,
+    "explanation": "Es el nivel que conecta los datos explícitos para descubrir lo oculto o sugerido."
+  }
+]

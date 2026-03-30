@@ -1,0 +1,522 @@
+[
+  {
+    "id": "soc_pro_1",
+    "icon": "🌍",
+    "text": "La Constitución de 1991 en Colombia define al Estado como Social de Derecho. Esto implica que la prioridad del Estado es:",
+    "options": [
+      "Garantizar los derechos fundamentales y la dignidad humana",
+      "Maximizar la recaudación de impuestos",
+      "Asegurar el crecimiento de las empresas privadas únicamente",
+      "Centralizar todo el poder en el Ejecutivo"
+    ],
+    "correct": 0,
+    "explanation": "Un Estado Social de Derecho busca la justicia social y el bienestar común, no solo la aplicación fría de la ley."
+  },
+  {
+    "id": "soc_pro_2",
+    "icon": "⚖️",
+    "text": "¿Cuál es el mecanismo de participación ciudadana que permite a los ciudadanos decidir sobre la destitución de un alcalde o gobernador?",
+    "options": [
+      "Revocatoria del mandato",
+      "Referendo legislativo",
+      "Plebiscito nacional",
+      "Cabildo abierto"
+    ],
+    "correct": 0,
+    "explanation": "La revocatoria es un derecho político por el cual se da por terminado el mandato conferido por el pueblo."
+  },
+  {
+    "id": "soc_pro_3",
+    "icon": "🗳️",
+    "text": "Un ciudadano considera que una ley aprobada por el Congreso vulnera la Constitución. El mecanismo judicial para demandar dicha ley es:",
+    "options": [
+      "Acción de inexequibilidad",
+      "Acción de tutela",
+      "Acción popular",
+      "Acción de cumplimiento"
+    ],
+    "correct": 0,
+    "explanation": "La demanda de inconstitucionalidad o acción de inexequibilidad busca que la Corte Constitucional retire las leyes que contradicen la Carta Magna."
+  },
+  {
+    "id": "soc_pro_4",
+    "icon": "🌍",
+    "text": "El conflicto armado en Colombia ha tenido un fuerte impacto en la propiedad de la tierra. La ley que busca devolver tierras a las víctimas es:",
+    "options": [
+      "Ley 1448 de 2011 (Ley de Víctimas)",
+      "Ley 100 de 1993",
+      "Constitución de 1886",
+      "Ley de Infancia y Adolescencia"
+    ],
+    "correct": 0,
+    "explanation": "La Ley 1448 establece medidas de reparación integral, incluyendo la restitución de tierras despojadas."
+  },
+  {
+    "id": "soc_pro_5",
+    "icon": "⚖️",
+    "text": "¿Qué rama del poder público en Colombia se encarga de administrar justicia y resolver conflictos entre ciudadanos?",
+    "options": [
+      "Rama Judicial",
+      "Rama Legislativa",
+      "Rama Ejecutiva",
+      "Órganos de Control"
+    ],
+    "correct": 0,
+    "explanation": "La Rama Judicial velar por el cumplimiento de las leyes y protege los derechos de los habitantes."
+  },
+  {
+    "id": "soc_pro_6",
+    "icon": "🗳️",
+    "text": "En un sistema democrático, el principio de 'Separación de Poderes' tiene como fin principal:",
+    "options": [
+      "Evitar la concentración de poder y el autoritarismo",
+      "Hacer que el gobierno sea más lento",
+      "Dividir el país en diferentes naciones",
+      "Que cada funcionario gane un sueldo distinto"
+    ],
+    "correct": 0,
+    "explanation": "La división en Ejecutivo, Legislativo y Judicial permite el control mutuo (pesos y contrapesos)."
+  },
+  {
+    "id": "soc_pro_7",
+    "icon": "🌍",
+    "text": "La 'Globalización' económica se caracteriza principalmente por:",
+    "options": [
+      "La interdependencia de mercados y el flujo de capitales",
+      "El cierre de fronteras al comercio exterior",
+      "La prohibición del uso de internet en los bancos",
+      "El retorno al trueque en las zonas rurales"
+    ],
+    "correct": 0,
+    "explanation": "Implica la integración de las economías nacionales en un sistema global interconectado."
+  },
+  {
+    "id": "soc_pro_8",
+    "icon": "⚖️",
+    "text": "Si una empresa arroja desechos químicos a un río afectando la salud de una comunidad, los ciudadanos pueden interponer una:",
+    "options": [
+      "Acción Popular",
+      "Acción de Tutela individual",
+      "Derecho de petición informativo",
+      "Revocatoria del mandato"
+    ],
+    "correct": 0,
+    "explanation": "La Acción Popular protege los derechos colectivos, como el medio ambiente sano."
+  },
+  {
+    "id": "soc_pro_9",
+    "icon": "🗳️",
+    "text": "¿Cuál es la función principal del Banco de la República en Colombia?",
+    "options": [
+      "Controlar la inflación y emitir la moneda legal",
+      "Administrar las cárceles del país",
+      "Elegir al Presidente de la República",
+      "Construir carreteras nacionales"
+    ],
+    "correct": 0,
+    "explanation": "Es la autoridad monetaria, cambiaria y crediticia independiente del gobierno."
+  },
+  {
+    "id": "soc_pro_10",
+    "icon": "🌍",
+    "text": "El desplazamiento forzado en Colombia se define como la situación donde personas:",
+    "options": [
+      "Deben abandonar sus hogares por violencia o amenazas",
+      "Deciden mudarse a otra ciudad por mejor clima",
+      "Viajan al exterior por estudios superiores",
+      "Son contratadas para trabajar en otra región"
+    ],
+    "correct": 0,
+    "explanation": "El componente clave es la coacción o violencia que obliga a la migración interna."
+  },
+  {
+    "id": "soc_pro_11",
+    "icon": "⚖️",
+    "text": "La 'Soberanía Popular' significa que el poder supremo en un Estado reside en:",
+    "options": [
+      "El Pueblo",
+      "El Rey",
+      "El Ejército",
+      "Los Partidos Políticos"
+    ],
+    "correct": 0,
+    "explanation": "Es el derecho del pueblo a autogobernarse y elegir a sus representantes."
+  },
+  {
+    "id": "soc_pro_12",
+    "icon": "🗳️",
+    "text": "¿Cuál de estos es un derecho de 'Segunda Generación' (Económicos, Sociales y Culturales)?",
+    "options": [
+      "Derecho a la educación",
+      "Derecho a la vida",
+      "Derecho al voto",
+      "Derecho a la libertad de expresión"
+    ],
+    "correct": 0,
+    "explanation": "Los derechos de 2da generación buscan garantizar condiciones de vida dignas."
+  },
+  {
+    "id": "soc_pro_13",
+    "icon": "🌍",
+    "text": "El fenómeno del 'Caudillismo' en la historia de América Latina se refiere a:",
+    "options": [
+      "Líderes carismáticos que ejercían gran poder personalista",
+      "Un sistema de riego agrícola avanzado",
+      "La exportación masiva de caucho",
+      "El estudio de las estrellas por los indígenas"
+    ],
+    "correct": 0,
+    "explanation": "Eran figuras fuertes que surgieron tras las independencias, a menudo con bases militares."
+  },
+  {
+    "id": "soc_pro_14",
+    "icon": "⚖️",
+    "text": "La tutela contra sentencias judiciales es excepcional y procede solo cuando se vulnera el:",
+    "options": [
+      "Debido Proceso",
+      "Derecho a la huelga",
+      "Derecho a la propiedad privada",
+      "Derecho al libre desarrollo de la personalidad"
+    ],
+    "correct": 0,
+    "explanation": "Se aplica si el juez cometió un error flagrante (vía de hecho) que afecta derechos fundamentales."
+  },
+  {
+    "id": "soc_pro_15",
+    "icon": "🗳️",
+    "text": "El Congreso de la República de Colombia es bicameral. Esto significa que está compuesto por:",
+    "options": [
+      "Senado y Cámara de Representantes",
+      "Asambleas y Concejos",
+      "Ministros y Viceministros",
+      "Jueces y Magistrados"
+    ],
+    "correct": 0,
+    "explanation": "Ambas corporaciones legislan y ejercen control político sobre el gobierno."
+  },
+  {
+    "id": "soc_pro_16",
+    "icon": "🌍",
+    "text": "La Revolución Francesa fue un hito histórico que promovió los ideales de:",
+    "options": [
+      "Libertad, Igualdad y Fraternidad",
+      "Orden, Paz y Progreso",
+      "Justicia, Verdad y Reparación",
+      "Fe, Esperanza y Caridad"
+    ],
+    "correct": 0,
+    "explanation": "Sentó las bases de los Derechos Humanos modernos y el fin de las monarquías absolutas."
+  },
+  {
+    "id": "soc_pro_17",
+    "icon": "⚖️",
+    "text": "¿Qué organismo de control en Colombia se encarga de vigilar la conducta oficial de los servidores públicos?",
+    "options": [
+      "Procuraduría General de la Nación",
+      "Contraloría General de la República",
+      "Fiscalía General de la Nación",
+      "Defensoría del Pueblo"
+    ],
+    "correct": 0,
+    "explanation": "Ejerce el poder disciplinario sobre los funcionarios del Estado."
+  },
+  {
+    "id": "soc_pro_18",
+    "icon": "🗳️",
+    "text": "El 'Sufragio Universal' implica que:",
+    "options": [
+      "Todos los ciudadanos adultos tienen derecho a votar sin discriminación",
+      "Solo los que saben leer y escribir pueden votar",
+      "Solo los hombres pueden elegir al presidente",
+      "Los votos de los ricos valen doble"
+    ],
+    "correct": 0,
+    "explanation": "Es un pilar de la democracia moderna que garantiza la igualdad política en el voto."
+  },
+  {
+    "id": "soc_pro_19",
+    "icon": "🌍",
+    "text": "La Organización de las Naciones Unidas (ONU) fue creada principalmente para:",
+    "options": [
+      "Mantener la paz y la seguridad internacional",
+      "Dominar el mundo militarmente",
+      "Crear una sola religión mundial",
+      "Eliminar todas las monedas nacionales"
+    ],
+    "correct": 0,
+    "explanation": "Fundada tras la 2da Guerra Mundial para prevenir nuevos conflictos de gran escala."
+  },
+  {
+    "id": "soc_pro_20",
+    "icon": "⚖️",
+    "text": "Un ciudadano desea saber cómo su entidad de salud (EPS) gasta los recursos públicos. El mecanismo para pedir esta información es:",
+    "options": [
+      "Derecho de Petición",
+      "Acción de Tutela",
+      "Hábeas Corpus",
+      "Revocatoria de mandato"
+    ],
+    "correct": 0,
+    "explanation": "Toda persona tiene derecho a elevar peticiones respetuosas a las autoridades y obtener respuesta rápida."
+  },
+  {
+    "id": "soc_pro_21",
+    "icon": "🌍",
+    "text": "¿Qué se entiende por 'Desarrollo Sostenible'?",
+    "options": [
+      "Satisfacer necesidades actuales sin comprometer a las futuras generaciones",
+      "Explotar todos los recursos naturales lo más rápido posible",
+      "Detener todo el crecimiento económico mundial",
+      "Usar solo energía producida a base de carbón"
+    ],
+    "correct": 0,
+    "explanation": "Busca el equilibrio entre crecimiento económico, cuidado ambiental y bienestar social."
+  },
+  {
+    "id": "soc_pro_22",
+    "icon": "⚖️",
+    "text": "El 'Hábeas Corpus' es una acción pública que protege el derecho a:",
+    "options": [
+      "La libertad física (contra detenciones ilegales)",
+      "La propiedad privada de bienes raíces",
+      "La libertad de cultos y religión",
+      "El acceso a la salud y medicamentos"
+    ],
+    "correct": 0,
+    "explanation": "Garantiza que una persona detenida sea llevada ante un juez en máximo 36 horas para verificar la legalidad de la captura."
+  },
+  {
+    "id": "soc_pro_23",
+    "icon": "🗳️",
+    "text": "¿Cuál es la función de la Corte Constitucional?",
+    "options": [
+      "Vigilar la integridad y supremacía de la Constitución",
+      "Juzgar delitos comunes de asesinato y robo",
+      "Administrar el presupuesto de la Presidencia",
+      "Organizar las elecciones regionales"
+    ],
+    "correct": 0,
+    "explanation": "Es la 'guardiana' de la Constitución, revisa leyes y decretos de emergencia."
+  },
+  {
+    "id": "soc_pro_24",
+    "icon": "🌍",
+    "text": "La Gran Depresión de 1929 comenzó con la caída de la bolsa de:",
+    "options": [
+      "Nueva York (Wall Street)",
+      "Londres",
+      "París",
+      "Tokio"
+    ],
+    "correct": 0,
+    "explanation": "Fue una crisis económica mundial que duró toda la década de 1930."
+  },
+  {
+    "id": "soc_pro_25",
+    "icon": "⚖️",
+    "text": "Un 'Estado Laico' es aquel que:",
+    "options": [
+      "Es independiente de cualquier organización o confesión religiosa",
+      "Prohíbe la práctica de cualquier religión",
+      "Tiene como religión oficial la católica",
+      "Es gobernado exclusivamente por sacerdotes"
+    ],
+    "correct": 0,
+    "explanation": "Garantiza la libertad de cultos y la neutralidad del Estado frente a ellos."
+  },
+  {
+    "id": "soc_pro_26",
+    "icon": "🗳️",
+    "text": "El poder ejecutivo a nivel municipal es ejercido por:",
+    "options": [
+      "El Alcalde",
+      "El Gobernador",
+      "El Presidente",
+      "El Concejal"
+    ],
+    "correct": 0,
+    "explanation": "El Alcalde es la máxima autoridad administrativa del municipio."
+  },
+  {
+    "id": "soc_pro_27",
+    "icon": "🌍",
+    "text": "La 'Guerra Fría' fue un enfrentamiento ideológico y político principalmente entre:",
+    "options": [
+      "Estados Unidos y la Unión Soviética",
+      "China y Japón",
+      "Alemania y Francia",
+      "Colombia y Venezuela"
+    ],
+    "correct": 0,
+    "explanation": "Dividió al mundo en dos bloques: Capitalista y Socialista, de 1947 a 1991."
+  },
+  {
+    "id": "soc_pro_28",
+    "icon": "⚖️",
+    "text": "¿En qué caso se puede interponer una Acción de Tutela contra un particular?",
+    "options": [
+      "Cuando el particular presta un servicio público o hay subordinación",
+      "Cuando un vecino hace mucho ruido en una fiesta",
+      "Cuando no me devuelven un dinero prestado",
+      "Nunca, la tutela solo es contra el Estado"
+    ],
+    "correct": 0,
+    "explanation": "Procede si hay una relación de poder (ej: patrón-empleado, banco-cliente) o servicio esencial."
+  },
+  {
+    "id": "soc_pro_29",
+    "icon": "🗳️",
+    "text": "La Registraduría Nacional del Estado Civil tiene como fin:",
+    "options": [
+      "Organizar las elecciones y la identificación de las personas",
+      "Recaudar los impuestos nacionales (DIAN)",
+      "Investigar crímenes de lesa humanidad",
+      "Proteger las fronteras terrestres"
+    ],
+    "correct": 0,
+    "explanation": "Es la encargada de la logística electoral y el registro civil de los ciudadanos."
+  },
+  {
+    "id": "soc_pro_30",
+    "icon": "🌍",
+    "text": "El Apartheid fue un sistema de segregación racial que existió en:",
+    "options": [
+      "Sudáfrica",
+      "Estados Unidos",
+      "Brasil",
+      "India"
+    ],
+    "correct": 0,
+    "explanation": "Fue un régimen de minoría blanca que oprimía a la mayoría negra, finalizado en 1994 con Nelson Mandela."
+  },
+  {
+    "id": "soc_pro_31",
+    "icon": "⚖️",
+    "text": "La pluriculturalidad en la Constitución de 1991 reconoce que:",
+    "options": [
+      "En el país conviven diversas etnias y culturas con iguales derechos",
+      "Todos los ciudadanos deben vestir y hablar igual",
+      "Las lenguas indígenas no tienen validez legal",
+      "Solo la cultura occidental es válida para el progreso"
+    ],
+    "correct": 0,
+    "explanation": "Colombia se reconoce como nación pluriétnica y multicultural."
+  },
+  {
+    "id": "soc_pro_32",
+    "icon": "🗳️",
+    "text": "¿Cuál es la edad mínima en Colombia para elegir y ser elegido en votaciones populares?",
+    "options": [
+      "18 años",
+      "21 años",
+      "16 años",
+      "25 años"
+    ],
+    "correct": 0,
+    "explanation": "A los 18 años se adquiere la ciudadanía y el derecho al voto."
+  },
+  {
+    "id": "soc_pro_33",
+    "icon": "🌍",
+    "text": "El neoliberalismo económico propone principalmente:",
+    "options": [
+      "La reducción de la intervención del Estado en la economía",
+      "Que el Estado controle todos los medios de producción",
+      "La eliminación total de la propiedad privada",
+      "Subsidiar todos los productos de consumo básico"
+    ],
+    "correct": 0,
+    "explanation": "Promueve el libre mercado, la privatización y la desregulación."
+  },
+  {
+    "id": "soc_pro_34",
+    "icon": "⚖️",
+    "text": "Un 'Estado Fallido' es aquel que:",
+    "options": [
+      "No puede garantizar el orden ni los servicios básicos a su población",
+      "Pierde un partido de fútbol internacional",
+      "No está de acuerdo con las leyes de otros países",
+      "Cambia su presidente cada 4 años"
+    ],
+    "correct": 0,
+    "explanation": "Ocurre cuando el gobierno pierde el control del territorio o el monopolio de la fuerza."
+  },
+  {
+    "id": "soc_pro_35",
+    "icon": "🗳️",
+    "text": "El voto en Colombia es un derecho y un deber, pero no es obligatorio. Esto significa que:",
+    "options": [
+      "El ciudadano decide libremente si asiste a las urnas",
+      "Votar es pecado en algunas regiones",
+      "No votar acarrea multas económicas",
+      "Solo pueden votar quienes paguen el impuesto al voto"
+    ],
+    "correct": 0,
+    "explanation": "Es libre, a diferencia de países como Brasil o Argentina donde es obligatorio."
+  },
+  {
+    "id": "soc_pro_36",
+    "icon": "🌍",
+    "text": "La 'Ruta de la Seda' en la antigüedad conectaba comercialmente a:",
+    "options": [
+      "China con Europa",
+      "América con África",
+      "Australia con La Antártida",
+      "Egipto con El Congo"
+    ],
+    "correct": 0,
+    "explanation": "Fue una red de rutas comerciales vital para el intercambio cultural y económico."
+  },
+  {
+    "id": "soc_pro_37",
+    "icon": "⚖️",
+    "text": "La Defensoría del Pueblo tiene como misión primordial:",
+    "options": [
+      "Promover y proteger los Derechos Humanos de los ciudadanos",
+      "Defender al Presidente en juicios internacionales",
+      "Controlar el precio de la canasta familiar",
+      "Vigilar que no se robe el dinero de las obras públicas"
+    ],
+    "correct": 0,
+    "explanation": "Forma parte del Ministerio Público y es la 'voz' de los ciudadanos ante abusos del poder."
+  },
+  {
+    "id": "soc_pro_38",
+    "icon": "🗳️",
+    "text": "¿Qué es un Cabildo Abierto?",
+    "options": [
+      "Una reunión pública de los concejos para discutir temas de interés local",
+      "Una fiesta popular organizada por el alcalde",
+      "Un secreto que se cuenta a todo el pueblo",
+      "Un tipo de edificio gubernamental sin puertas"
+    ],
+    "correct": 0,
+    "explanation": "Es un mecanismo de participación donde los ciudadanos proponen temas directamente a sus concejales o diputados."
+  },
+  {
+    "id": "soc_pro_39",
+    "icon": "🌍",
+    "text": "La Revolución Industrial comenzó en el siglo XVIII en:",
+    "options": [
+      "Inglaterra",
+      "Estados Unidos",
+      "España",
+      "Rumania"
+    ],
+    "correct": 0,
+    "explanation": "Transformó la producción manual en mecánica, cambiando la sociedad para siempre."
+  },
+  {
+    "id": "soc_pro_40",
+    "icon": "⚖️",
+    "text": "¿Qué derecho protege el Hábeas Data?",
+    "options": [
+      "Conocer, actualizar y rectificar información en bases de datos",
+      "Poder caminar libremente por el espacio público",
+      "Tener una vivienda digna con servicios públicos",
+      "Acceder a internet de alta velocidad gratis"
+    ],
+    "correct": 0,
+    "explanation": "Es el derecho constitucional a la autodeterminación informática."
+  }
+]

@@ -1,0 +1,96 @@
+/* History.css */
+.history-container {
+  max-width: 900px; margin: 0 auto; padding: 2rem 1rem 3rem;
+  display: flex; flex-direction: column; gap: 1.2rem;
+}
+.history-header { 
+  padding: 1.5rem 2rem; 
+  background: var(--gradient-pro);
+  border-radius: var(--radius-pro);
+  box-shadow: var(--shadow-pro);
+  border: 1px solid var(--border-subtle);
+  margin-bottom: 1.2rem;
+}
+.history-header h1 { font-size: 1.8rem; margin: 0 0 0.2rem; }
+.history-header p { color: var(--text-muted); margin: 0; font-size: 0.9rem; }
+
+.history-filters {
+  display: flex; gap: 0.6rem; flex-wrap: wrap; padding: 0.8rem 1rem;
+}
+.filter-btn {
+  padding: 0.5rem 1rem; background: rgba(255,255,255,0.05);
+  border: 1px solid rgba(255,255,255,0.1); border-radius: 50px;
+  color: var(--text-muted); font-size: 0.85rem; cursor: pointer; transition: all 0.2s;
+}
+.filter-btn.active, .filter-btn:hover {
+  background: rgba(167,139,250,0.15); border-color: #a78bfa; color: #a78bfa;
+}
+
+.history-loading, .history-empty {
+  padding: 2.5rem; text-align: center; color: var(--text-muted);
+}
+.history-empty span { font-size: 3rem; display: block; margin-bottom: 0.5rem; }
+.history-empty .btn-primary { margin-top: 1rem; }
+
+.history-list-new { display: flex; flex-direction: column; gap: 0.8rem; }
+
+.history-item-new { 
+  overflow: hidden; 
+  background: var(--bg-card);
+  border-radius: var(--radius-pro);
+  border: 1px solid var(--border-subtle);
+  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+  margin-bottom: 0.8rem;
+  transition: transform 0.3s ease;
+}
+.history-item-new:hover { transform: scale(1.01); border-color: var(--primary-light); }
+
+.hin-header {
+  display: flex; justify-content: space-between; align-items: center;
+  padding: 1rem 1.2rem; cursor: pointer; transition: background 0.2s;
+}
+.hin-header:hover { background: rgba(255,255,255,0.03); }
+
+.hin-type { display: flex; align-items: center; gap: 0.5rem; font-weight: 600; font-size: 0.95rem; }
+.hin-meta { display: flex; align-items: center; gap: 0.8rem; }
+.hin-date { font-size: 0.8rem; color: var(--text-muted); }
+.hin-score { padding: 0.25rem 0.6rem; border-radius: 50px; font-size: 0.85rem; font-weight: 700; }
+.hin-expand { color: var(--text-muted); font-size: 0.75rem; }
+
+.hin-tags-row {
+  padding: 0 1.2rem 0.8rem; display: flex; flex-wrap: wrap; gap: 0.4rem; align-items: center;
+}
+.htag {
+  background: rgba(96,165,250,0.1); color: #60a5fa; border: 1px solid rgba(96,165,250,0.3);
+  padding: 0.2rem 0.55rem; border-radius: 50px; font-size: 0.75rem; cursor: pointer; transition: all 0.2s;
+}
+.htag:hover { background: rgba(239,68,68,0.1); color: #fca5a5; border-color: rgba(239,68,68,0.3); }
+.htag-add {
+  background: none; border: 1px dashed rgba(255,255,255,0.2); color: var(--text-muted);
+  padding: 0.2rem 0.55rem; border-radius: 50px; font-size: 0.75rem; cursor: pointer;
+}
+.htag-add:hover { border-color: rgba(255,255,255,0.4); }
+.htag-input-row { display: flex; flex-direction: column; gap: 0.4rem; width: 100%; }
+.htag-input {
+  background: rgba(255,255,255,0.05); border: 1px solid rgba(255,255,255,0.15);
+  color: var(--text-primary); border-radius: 8px; padding: 0.4rem 0.7rem; font-size: 0.85rem; outline: none;
+}
+.htag-presets { display: flex; flex-wrap: wrap; gap: 0.4rem; }
+.htag-preset {
+  background: rgba(255,255,255,0.04); border: 1px solid rgba(255,255,255,0.1);
+  color: var(--text-muted); padding: 0.15rem 0.5rem; border-radius: 50px; font-size: 0.72rem; cursor: pointer;
+}
+.htag-preset:hover { background: rgba(255,255,255,0.08); }
+
+.hin-details { padding: 0.5rem 1.2rem 1.2rem; border-top: 1px solid rgba(255,255,255,0.06); }
+.hin-detail-grid { display: flex; gap: 1.5rem; flex-wrap: wrap; margin-bottom: 1rem; }
+.hin-detail-item { display: flex; flex-direction: column; gap: 0.1rem; }
+.hin-detail-item span { font-size: 0.75rem; color: var(--text-muted); }
+.hin-detail-item strong { font-size: 0.95rem; }
+
+.hin-area-breakdown { display: flex; flex-direction: column; gap: 0.5rem; }
+.hin-area-row { display: flex; align-items: center; gap: 0.7rem; font-size: 0.85rem; }
+.hin-area-row span:first-child { width: 160px; flex-shrink: 0; color: var(--text-muted); }
+.hin-area-bar { flex: 1; height: 6px; background: rgba(255,255,255,0.07); border-radius: 3px; overflow: hidden; }
+.hin-area-fill { height: 100%; background: linear-gradient(90deg, #60a5fa, #a78bfa); border-radius: 3px; }
+.hin-area-row span:last-child { width: 35px; text-align: right; color: var(--text-muted); font-size: 0.8rem; }
